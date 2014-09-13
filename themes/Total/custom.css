@@ -1,0 +1,47 @@
+.widget-title,.goldHeading {color:#D29F2A !important; font-size:26px !important;font-weight: normal !important; text-align:center;display:block;}
+.headPhone {display: block;font-size: 35px;font-weight: bold;text-align: center;}
+.thinBorders {border:1px solid #ccc; padding:10px;text-align:left;}
+.formFormat label { display:block;}
+.formFormat {margin-bottom:15px;}
+.formFormat input[type=text],.formFormat input[type=tel], #Form textarea {width:100%;}
+.formFormat textarea {height:100px;}
+.formFormat input.error, .formFormat textarea.error  {background:#f9b5c5; border:1px solid #fb3c3c;} 
+.formFormat label.error{display:none !important;}
+.italic {font-style: italic; display:block; text-align:center;}
+.greyBack {background:#F5F5F6; padding:15px}
+.lightGrey {color:#929496;}
+.darkGrey {color:9#39597;}
+.font20 {font-size:20px;}
+.font25 {font-size:25px;}
+.font30 {font-size:30px;}
+.font24 {font-size:24px;} 
+.font18 {font-size:18px;}
+.goldColor{color:#D29F2A !important;}
+.width100{width:100%} 
+.alignCenter {display:block;text-align:center;} 
+#menu-drug-a-z li{list-style: none;}
+.topCTA {background: #f6f6f3; padding:20px;}
+.formTable td {padding-right:15px;}
+.formTable {width:100%;}
+.formTable input[type=text],.formTable input[type=tel] {height:45px;}
+.formTable input[type="submit"] {background:#f3a532 !important;height:45px;padding: 0px 26px;margin-top:20px}
+.thickBorder {border:2px solid #b2b3b6; padding:0 25px 25px 25px;}
+.leftBorder {border-left: 2px solid #ccc;padding-left: 20px;}
+.marginNone {margin-top:0 !important;}
+.scrollTo {font-size:20px; color:#b2b3b6;}
+.lowSidebar {text-align: center;padding-left: 10px;}
+
+.homeFormDiv {padding: 0 20px 20px 20px;top: -100px;position: relative;background: #fff;}
+.homeFormDiv input[type="submit"] {background:#F2A51D; width:100%; padding:0 20px;}
+
+.checkList li {background: url(http://substanceabuserehabs.com/wp-content/uploads/2014/09/check-list.png) top left no-repeat;
+padding-left: 40px;
+list-style: none;
+margin-bottom: 19px;
+font-weight: bold;}
+.marginBottomNone {margin-bottom:0 !important;}
+.dropShadow {text-shadow: 2px 2px 3px rgba(75, 75, 75, .75);}
+.colorBlue {color:#508F9A !important;}
+.whiteColor, .whiteColor a {color:#fff !important;}
+.whiteColor a {text-decoration:underline;}
+.vcex-button.flat.blue {background:#508F9A !important; border:1px solid #29575E !important; width:90%; text-align:center; color:#fff;}

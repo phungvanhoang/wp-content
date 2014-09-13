@@ -1,0 +1,4132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: office\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-08 14:02-0800\n"
+"PO-Revision-Date: 2013-12-08 14:02-0800\n"
+"Last-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:20
+msgid "You Broke The Internet!"
+msgstr ""
+
+#: ../404.php:21
+msgid ""
+"We are just kidding...but sorry the page you were looking for can not be "
+"found."
+msgstr ""
+
+#: ../archive.php:43 ../category.php:39
+msgid "No Posts found."
+msgstr ""
+
+#: ../author-bio.php:13 ../functions/post-entry-author-avatar.php:59
+msgid "Visit Author Page"
+msgstr ""
+
+#: ../author.php:21
+#, php-format
+msgid "All Posts By %s"
+msgstr ""
+
+#: ../author.php:23
+msgid "This author has written"
+msgstr ""
+
+#: ../author.php:23
+msgid "articles"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:42
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-audio.php:72 ../content-gallery.php:113 ../content-video.php:73
+#: ../content.php:63
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../footer.php:31 ../searchform.php:12 ../headers/header-two.php:37
+msgid "search"
+msgstr ""
+
+#: ../search.php:36
+msgid "Sorry, no results were found for this query."
+msgstr ""
+
+#: ../single-portfolio.php:79
+msgid "Related Projects"
+msgstr ""
+
+#: ../single-staff.php:70
+msgid "Related Staff"
+msgstr ""
+
+#: ../single.php:97
+msgid "Related Posts"
+msgstr ""
+
+#: ../woocommerce.php:74 ../functions/breadcrumbs.php:41
+msgid "Shop"
+msgstr ""
+
+#: ../admin/class.redux_metaboxes.php:131 ../admin/framework.php:104
+#: ../admin/framework.php:110 ../admin/framework.php:248
+#: ../admin/framework.php:250
+msgid "Options"
+msgstr ""
+
+#: ../admin/framework.php:262
+msgid "Options panel created using"
+msgstr ""
+
+#: ../admin/framework.php:262
+msgid "Redux Framework"
+msgstr ""
+
+#: ../admin/framework.php:889 ../admin/framework.php:890
+#: ../admin/framework.php:1855
+msgid "Import / Export"
+msgstr ""
+
+#: ../admin/framework.php:900 ../admin/framework.php:901
+#: ../admin/framework.php:1871 ../admin/framework.php:1969
+msgid "Options Object"
+msgstr ""
+
+#: ../admin/framework.php:911 ../admin/framework.php:912
+#: ../admin/framework.php:1885 ../admin/framework.php:1989
+msgid "System Info"
+msgstr ""
+
+#: ../admin/framework.php:1158
+#: ../admin/extensions/customizer/extension_customizer.php:311
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr ""
+
+#: ../admin/framework.php:1159
+msgid "Are you sure? Resetting will loose all custom values."
+msgstr ""
+
+#: ../admin/framework.php:1160
+msgid "Are you sure? Resetting will loose all custom values in this section."
+msgstr ""
+
+#: ../admin/framework.php:1161
+#: ../admin/extensions/customizer/extension_customizer.php:313
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../admin/framework.php:1407 ../functions/meta/usage.php:53
+#: ../functions/meta/usage.php:129 ../functions/meta/usage.php:179
+#: ../functions/meta/usage.php:344 ../functions/meta/usage.php:420
+#: ../functions/meta/usage.php:469 ../functions/meta/usage.php:545
+#: ../functions/meta/taxonomies/category-meta.php:30
+#: ../functions/meta/taxonomies/category-meta.php:61
+#: ../functions/meta/taxonomies/category-meta.php:77
+#: ../functions/visual-composer/add-params.php:129
+#: ../functions/visual-composer/add-params.php:152
+#: ../functions/visual-composer/add-params.php:169
+msgid "Default"
+msgstr ""
+
+#: ../admin/framework.php:1715
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+
+#: ../admin/framework.php:1769
+msgid "Expand"
+msgstr ""
+
+#: ../admin/framework.php:1771 ../admin/framework.php:2019
+msgid "Save Changes"
+msgstr ""
+
+#: ../admin/framework.php:1773 ../admin/framework.php:2021
+msgid "Reset Section"
+msgstr ""
+
+#: ../admin/framework.php:1775 ../admin/framework.php:2023
+msgid "Reset All"
+msgstr ""
+
+#: ../admin/framework.php:1778 ../admin/framework.php:2026
+msgid "Working..."
+msgstr ""
+
+#: ../admin/framework.php:1785
+msgid "Settings Imported!"
+msgstr ""
+
+#: ../admin/framework.php:1787
+msgid "Settings Saved!"
+msgstr ""
+
+#: ../admin/framework.php:1791
+msgid "Settings have changed, you should save them!"
+msgstr ""
+
+#: ../admin/framework.php:1792
+msgid "error(s) were found!"
+msgstr ""
+
+#: ../admin/framework.php:1793
+msgid "warning(s) were found!"
+msgstr ""
+
+#: ../admin/framework.php:1922
+msgid "Import / Export Options"
+msgstr ""
+
+#: ../admin/framework.php:1923
+msgid "Import Options"
+msgstr ""
+
+#: ../admin/framework.php:1924
+msgid "Import from file"
+msgstr ""
+
+#: ../admin/framework.php:1924
+msgid "Import from URL"
+msgstr ""
+
+#: ../admin/framework.php:1929
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+
+#: ../admin/framework.php:1939
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+
+#: ../admin/framework.php:1946
+msgid "Import"
+msgstr ""
+
+#: ../admin/framework.php:1946
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+
+#: ../admin/framework.php:1949
+msgid "Export Options"
+msgstr ""
+
+#: ../admin/framework.php:1951
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+
+#: ../admin/framework.php:1955
+msgid "Copy"
+msgstr ""
+
+#: ../admin/framework.php:1955
+msgid "Download"
+msgstr ""
+
+#: ../admin/framework.php:1955
+msgid "Copy Link"
+msgstr ""
+
+#: ../admin/framework.php:1978
+msgid "Show Object in Javascript Console Object"
+msgstr ""
+
+#: ../admin/extensions/customizer/extension_customizer.php:312
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr ""
+
+#: ../admin/extensions/customizer/extension_customizer.php:342
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr ""
+
+#: ../admin/extensions/customizer/extension_customizer.php:343
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr ""
+
+#: ../admin/extensions/customizer/extension_customizer.php:344
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+
+#: ../admin/extensions/edd/extension_edd.php:78
+#: ../admin/extensions/edd/extension_edd.php:120
+#: ../admin/extensions/edd/extension_edd.php:177
+#: ../admin/extensions/edd/edd_license/field_edd_license.php:116
+msgid "Valid"
+msgstr ""
+
+#: ../admin/extensions/edd/extension_edd.php:171
+#: ../admin/extensions/edd/edd_license/field_edd_license.php:110
+msgid "Not Activated"
+msgstr ""
+
+#: ../admin/extensions/edd/extension_edd.php:174
+#: ../admin/extensions/edd/edd_license/field_edd_license.php:114
+msgid "Deactivated"
+msgstr ""
+
+#: ../admin/extensions/edd/extension_edd.php:180
+msgid "Not Valid"
+msgstr ""
+
+#: ../admin/extensions/edd/edd_license/EDD_License_Handler.php:112
+#, php-format
+msgid "%1$s License Key"
+msgstr ""
+
+#: ../admin/extensions/edd/edd_license/EDD_License_Handler.php:218
+#: ../admin/extensions/edd/edd_license/field_edd_license.php:142
+msgid "Deactivate License"
+msgstr ""
+
+#: ../admin/extensions/edd/edd_license/EDD_SL_Theme_Updater.php:54
+msgid ""
+"Updating this theme will lose any customizations you have made. 'Cancel' to "
+"stop, 'OK' to update."
+msgstr ""
+
+#: ../admin/extensions/edd/edd_license/field_edd_license.php:123
+msgid "License Status"
+msgstr ""
+
+#: ../admin/extensions/edd/edd_license/field_edd_license.php:132
+msgid "Verify License"
+msgstr ""
+
+#: ../admin/extensions/edd/edd_license/field_edd_license.php:137
+msgid "Activate License"
+msgstr ""
+
+#: ../admin/inc/tracking.php:59
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: ../admin/inc/tracking.php:60
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test with."
+msgstr ""
+
+#: ../admin/inc/tracking.php:65
+msgid "Allow tracking"
+msgstr ""
+
+#: ../admin/inc/tracking.php:70
+msgid "Do not allow tracking"
+msgstr ""
+
+#: ../admin/inc/fields/border/field_border.php:111
+#: ../admin/inc/fields/spacing/field_spacing.php:123
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:25
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:65
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:107
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:148
+msgid "All"
+msgstr ""
+
+#: ../admin/inc/fields/border/field_border.php:124
+#: ../admin/inc/fields/spacing/field_spacing.php:147
+msgid "Top"
+msgstr ""
+
+#: ../admin/inc/fields/border/field_border.php:131
+#: ../admin/inc/fields/spacing/field_spacing.php:154
+msgid "Right"
+msgstr ""
+
+#: ../admin/inc/fields/border/field_border.php:138
+#: ../admin/inc/fields/spacing/field_spacing.php:161
+msgid "Bottom"
+msgstr ""
+
+#: ../admin/inc/fields/border/field_border.php:145
+#: ../admin/inc/fields/spacing/field_spacing.php:168
+msgid "Left"
+msgstr ""
+
+#: ../admin/inc/fields/border/field_border.php:161
+msgid "Border style"
+msgstr ""
+
+#: ../admin/inc/fields/color/field_color.php:72
+#: ../admin/inc/fields/color_gradient/field_color_gradient.php:81
+#: ../admin/inc/fields/color_gradient/field_color_gradient.php:91
+msgid "Transparent"
+msgstr ""
+
+#: ../admin/inc/fields/color_gradient/field_color_gradient.php:73
+msgid "From "
+msgstr ""
+
+#: ../admin/inc/fields/color_gradient/field_color_gradient.php:84
+msgid "To "
+msgstr ""
+
+#: ../admin/inc/fields/dimensions/field_dimensions.php:138
+msgid "Width"
+msgstr ""
+
+#: ../admin/inc/fields/dimensions/field_dimensions.php:154
+msgid "height"
+msgstr ""
+
+#: ../admin/inc/fields/dimensions/field_dimensions.php:167
+#: ../admin/inc/fields/dimensions/field_dimensions.php:168
+#: ../admin/inc/fields/spacing/field_spacing.php:179
+#: ../admin/inc/fields/spacing/field_spacing.php:180
+msgid "Units"
+msgstr ""
+
+#: ../admin/inc/fields/gallery/field_gallery.php:76
+msgid "Add/Edit Gallery"
+msgstr ""
+
+#: ../admin/inc/fields/gallery/field_gallery.php:77
+msgid "Clear Gallery"
+msgstr ""
+
+#: ../admin/inc/fields/group/field_group.php:72
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:31
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:71
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:113
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:154
+msgid "New"
+msgstr ""
+
+#: ../admin/inc/fields/group/field_group.php:85
+msgid "New "
+msgstr ""
+
+#: ../admin/inc/fields/group/field_group.php:134
+#: ../admin/inc/fields/group/field_group.php:199
+msgid "Delete"
+msgstr ""
+
+#: ../admin/inc/fields/group/field_group.php:204
+msgid "Add"
+msgstr ""
+
+#: ../admin/inc/fields/link_color/field_link_color.php:84
+msgid "Regular"
+msgstr ""
+
+#: ../admin/inc/fields/link_color/field_link_color.php:90
+msgid "Hover"
+msgstr ""
+
+#: ../admin/inc/fields/link_color/field_link_color.php:96
+msgid "Active"
+msgstr ""
+
+#: ../admin/inc/fields/media/field_media.php:116
+msgid "No media selected"
+msgstr ""
+
+#: ../admin/inc/fields/media/field_media.php:150
+#: ../admin/inc/fields/slides/field_slides.php:117
+#: ../admin/inc/fields/slides/field_slides.php:181
+msgid "Upload"
+msgstr ""
+
+#: ../admin/inc/fields/media/field_media.php:156
+#: ../admin/inc/fields/multi_text/field_multi_text.php:74
+#: ../admin/inc/fields/multi_text/field_multi_text.php:77
+#: ../admin/inc/fields/multi_text/field_multi_text.php:80
+#: ../admin/inc/fields/slides/field_slides.php:123
+#: ../admin/inc/fields/slides/field_slides.php:183
+msgid "Remove"
+msgstr ""
+
+#: ../admin/inc/fields/multi_text/field_multi_text.php:52
+msgid "Add More"
+msgstr ""
+
+#: ../admin/inc/fields/password/field_password.php:52
+msgid "Password"
+msgstr ""
+
+#: ../admin/inc/fields/password/field_password.php:53
+msgid "Username"
+msgstr ""
+
+#: ../admin/inc/fields/select/field_select.php:62
+msgid "Select an item"
+msgstr ""
+
+#: ../admin/inc/fields/select/field_select.php:83
+msgid "No items of this type were found."
+msgstr ""
+
+#: ../admin/inc/fields/slides/field_slides.php:128
+#: ../admin/inc/fields/slides/field_slides.php:188
+#: ../vc_templates/vc_text_separator.php:4
+msgid "Title"
+msgstr ""
+
+#: ../admin/inc/fields/slides/field_slides.php:129
+#: ../admin/inc/fields/slides/field_slides.php:190
+#: ../functions/widgets/widget-video.php:59
+msgid "Description"
+msgstr ""
+
+#: ../admin/inc/fields/slides/field_slides.php:130
+#: ../admin/inc/fields/slides/field_slides.php:192
+msgid "URL"
+msgstr ""
+
+#: ../admin/inc/fields/slides/field_slides.php:138
+#: ../admin/inc/fields/slides/field_slides.php:201
+msgid "Select an Option"
+msgstr ""
+
+#: ../admin/inc/fields/slides/field_slides.php:159
+#: ../admin/inc/fields/slides/field_slides.php:221
+msgid "Delete Slide"
+msgstr ""
+
+#: ../admin/inc/fields/slides/field_slides.php:224
+msgid "Add Slide"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:104
+msgid "Font family"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:145
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:181
+#: ../admin/inc/fields/typography/field_typography.php:185
+msgid "Font style"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:185
+#: ../functions/meta/taxonomies/category-meta.php:27
+#: ../functions/visual-composer/add-params.php:49
+#: ../functions/visual-composer/add-params.php:126
+#: ../functions/visual-composer/add-params.php:149
+#: ../functions/visual-composer/add-params.php:166
+msgid "Style"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:211
+msgid "Font subsets"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:212
+msgid "Subsets"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:212
+msgid "Font script"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:230
+msgid "Size"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:239
+msgid "Height"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:247
+msgid "Word Spacing"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:255
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:269
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:289
+msgid "Font color"
+msgstr ""
+
+#: ../admin/inc/fields/typography/field_typography.php:516
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../admin/inc/validation/color/validation_color.php:15
+#: ../admin/inc/validation/color_rgba/validation_color_rgba.php:15
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: ../admin/inc/validation/comma_numeric/validation_comma_numeric.php:15
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: ../admin/inc/validation/date/validation_date.php:15
+msgid "This field must be a valid date."
+msgstr ""
+
+#: ../admin/inc/validation/email/validation_email.php:15
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: ../admin/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: ../admin/inc/validation/no_special_chars/validation_no_special_chars.php:15
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: ../admin/inc/validation/numeric/validation_numeric.php:15
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: ../admin/inc/validation/url/validation_url.php:15
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: ../functions/admin-config.php:47
+msgid "Theme Options Panel"
+msgstr ""
+
+#: ../functions/admin-config.php:83 ../functions/admin-config.php:87
+msgid "Theme Options"
+msgstr ""
+
+#: ../functions/admin-config.php:145
+msgid "General"
+msgstr ""
+
+#: ../functions/admin-config.php:146
+msgid "Welcome to the Simple Options Framework Demo"
+msgstr ""
+
+#: ../functions/admin-config.php:157
+msgid "Theme Branding"
+msgstr ""
+
+#: ../functions/admin-config.php:159
+msgid ""
+"Enter your custom name to rebrand your theme. This string is used in "
+"situations such as the customw widget titles."
+msgstr ""
+
+#: ../functions/admin-config.php:166 ../functions/admin-config.php:668
+msgid "Logo"
+msgstr ""
+
+#: ../functions/admin-config.php:168
+msgid "Upload your custom site logo."
+msgstr ""
+
+#: ../functions/admin-config.php:175
+msgid "Retina Logo"
+msgstr ""
+
+#: ../functions/admin-config.php:177
+msgid "Upload your retina logo (optional)."
+msgstr ""
+
+#: ../functions/admin-config.php:184
+msgid "Standard Logo Height"
+msgstr ""
+
+#: ../functions/admin-config.php:185
+msgid "Enter your standard logo height. Used for retina logo."
+msgstr ""
+
+#: ../functions/admin-config.php:192
+msgid "Standard Logo Width"
+msgstr ""
+
+#: ../functions/admin-config.php:193
+msgid "Enter your standard logo width. Used for retina logo."
+msgstr ""
+
+#: ../functions/admin-config.php:200
+msgid "Favicon"
+msgstr ""
+
+#: ../functions/admin-config.php:202
+msgid "Upload your custom site favicon."
+msgstr ""
+
+#: ../functions/admin-config.php:209
+msgid "Apple iPhone Icon "
+msgstr ""
+
+#: ../functions/admin-config.php:211
+msgid "Upload your custom iPhone icon (57px by 57px)."
+msgstr ""
+
+#: ../functions/admin-config.php:218
+msgid "Apple iPhone Retina Icon "
+msgstr ""
+
+#: ../functions/admin-config.php:220
+msgid "Upload your custom iPhone retina icon (114px by 114px)."
+msgstr ""
+
+#: ../functions/admin-config.php:227
+msgid "Apple iPad Icon "
+msgstr ""
+
+#: ../functions/admin-config.php:229
+msgid "Upload your custom iPad icon (72px by 72px)."
+msgstr ""
+
+#: ../functions/admin-config.php:236
+msgid "Apple iPad Retina Icon "
+msgstr ""
+
+#: ../functions/admin-config.php:238
+msgid "Upload your custom iPad retina icon (144px by 144px)."
+msgstr ""
+
+#: ../functions/admin-config.php:244
+msgid "Tracking Code"
+msgstr ""
+
+#: ../functions/admin-config.php:245
+msgid ""
+"Paste your Google Analytics javascript or other tracking code here. This "
+"code will be added before the closing <head> tag."
+msgstr ""
+
+#: ../functions/admin-config.php:256
+#: ../functions/meta/taxonomies/category-meta.php:58
+msgid "Layout"
+msgstr ""
+
+#: ../functions/admin-config.php:267
+msgid "Layout Style"
+msgstr ""
+
+#: ../functions/admin-config.php:268
+msgid "Select your website layout style."
+msgstr ""
+
+#: ../functions/admin-config.php:270 ../functions/admin-config.php:1330
+#: ../functions/admin-config.php:1341 ../functions/admin-config.php:1522
+#: ../functions/admin-config.php:1533 ../functions/admin-config.php:1644
+#: ../functions/admin-config.php:1765 ../functions/admin-config.php:1784
+#: ../functions/admin-config.php:1872 ../functions/admin-config.php:1882
+#: ../functions/admin-config.php:2495
+#: ../functions/meta/taxonomies/category-meta.php:64
+msgid "Full Width"
+msgstr ""
+
+#: ../functions/admin-config.php:270 ../functions/meta/usage.php:41
+#: ../functions/visual-composer/add-params.php:131
+msgid "Boxed"
+msgstr ""
+
+#: ../functions/admin-config.php:277
+msgid "Main Container Width"
+msgstr ""
+
+#: ../functions/admin-config.php:278 ../functions/admin-config.php:343
+#: ../functions/admin-config.php:376 ../functions/admin-config.php:386
+msgid "Enter your custom main container width in pixels."
+msgstr ""
+
+#: ../functions/admin-config.php:287
+msgid "Left Container Width"
+msgstr ""
+
+#: ../functions/admin-config.php:288 ../functions/admin-config.php:354
+msgid "Enter your width in pixels or percentage for your left container."
+msgstr ""
+
+#: ../functions/admin-config.php:297
+msgid "Sidebar Width"
+msgstr ""
+
+#: ../functions/admin-config.php:298 ../functions/admin-config.php:365
+msgid "Enter your width in pixels or percentage for your sidebar."
+msgstr ""
+
+#: ../functions/admin-config.php:311 ../functions/admin-config.php:322
+msgid "Responsive"
+msgstr ""
+
+#: ../functions/admin-config.php:323
+msgid ""
+"Enable this option to make your theme compatible with smart phones and "
+"tablets."
+msgstr ""
+
+#: ../functions/admin-config.php:325 ../functions/admin-config.php:335
+#: ../functions/admin-config.php:443 ../functions/admin-config.php:474
+#: ../functions/admin-config.php:520 ../functions/admin-config.php:530
+#: ../functions/admin-config.php:541 ../functions/admin-config.php:551
+#: ../functions/admin-config.php:795 ../functions/admin-config.php:1210
+#: ../functions/admin-config.php:1231 ../functions/admin-config.php:1242
+#: ../functions/admin-config.php:1253 ../functions/admin-config.php:1286
+#: ../functions/admin-config.php:1297 ../functions/admin-config.php:1308
+#: ../functions/admin-config.php:1413 ../functions/admin-config.php:1434
+#: ../functions/admin-config.php:1445 ../functions/admin-config.php:1456
+#: ../functions/admin-config.php:1489 ../functions/admin-config.php:1500
+#: ../functions/admin-config.php:1605 ../functions/admin-config.php:1614
+#: ../functions/admin-config.php:1624 ../functions/admin-config.php:1716
+#: ../functions/admin-config.php:1726 ../functions/admin-config.php:1736
+#: ../functions/admin-config.php:1911 ../functions/admin-config.php:1921
+#: ../functions/admin-config.php:1942 ../functions/admin-config.php:1952
+#: ../functions/admin-config.php:1963 ../functions/admin-config.php:1973
+#: ../functions/admin-config.php:1983 ../functions/admin-config.php:1993
+#: ../functions/admin-config.php:2016 ../functions/admin-config.php:2026
+#: ../functions/admin-config.php:2208 ../functions/admin-config.php:2276
+#: ../functions/admin-config.php:2297 ../functions/admin-config.php:2330
+#: ../functions/admin-config.php:2341 ../functions/admin-config.php:2351
+#: ../functions/admin-config.php:2361 ../functions/admin-config.php:2371
+#: ../functions/admin-config.php:2451 ../functions/admin-config.php:2461
+#: ../functions/admin-config.php:2471 ../functions/admin-config.php:2505
+#: ../functions/admin-config.php:2515 ../functions/admin-config.php:2525
+#: ../functions/admin-config.php:2535 ../functions/admin-config.php:2545
+#: ../functions/admin-config.php:2587
+msgid "On"
+msgstr ""
+
+#: ../functions/admin-config.php:326 ../functions/admin-config.php:336
+#: ../functions/admin-config.php:444 ../functions/admin-config.php:475
+#: ../functions/admin-config.php:521 ../functions/admin-config.php:531
+#: ../functions/admin-config.php:542 ../functions/admin-config.php:552
+#: ../functions/admin-config.php:796 ../functions/admin-config.php:1211
+#: ../functions/admin-config.php:1232 ../functions/admin-config.php:1243
+#: ../functions/admin-config.php:1254 ../functions/admin-config.php:1287
+#: ../functions/admin-config.php:1298 ../functions/admin-config.php:1309
+#: ../functions/admin-config.php:1414 ../functions/admin-config.php:1435
+#: ../functions/admin-config.php:1446 ../functions/admin-config.php:1457
+#: ../functions/admin-config.php:1490 ../functions/admin-config.php:1501
+#: ../functions/admin-config.php:1606 ../functions/admin-config.php:1615
+#: ../functions/admin-config.php:1625 ../functions/admin-config.php:1717
+#: ../functions/admin-config.php:1727 ../functions/admin-config.php:1737
+#: ../functions/admin-config.php:1912 ../functions/admin-config.php:1922
+#: ../functions/admin-config.php:1943 ../functions/admin-config.php:1953
+#: ../functions/admin-config.php:1964 ../functions/admin-config.php:1974
+#: ../functions/admin-config.php:1984 ../functions/admin-config.php:1994
+#: ../functions/admin-config.php:2017 ../functions/admin-config.php:2027
+#: ../functions/admin-config.php:2209 ../functions/admin-config.php:2277
+#: ../functions/admin-config.php:2298 ../functions/admin-config.php:2331
+#: ../functions/admin-config.php:2342 ../functions/admin-config.php:2352
+#: ../functions/admin-config.php:2362 ../functions/admin-config.php:2372
+#: ../functions/admin-config.php:2452 ../functions/admin-config.php:2462
+#: ../functions/admin-config.php:2472 ../functions/admin-config.php:2506
+#: ../functions/admin-config.php:2516 ../functions/admin-config.php:2526
+#: ../functions/admin-config.php:2536 ../functions/admin-config.php:2546
+#: ../functions/admin-config.php:2588
+msgid "Off"
+msgstr ""
+
+#: ../functions/admin-config.php:332
+msgid "Custom Responsive Widths"
+msgstr ""
+
+#: ../functions/admin-config.php:333
+msgid ""
+"Use this option to toggle the custom responsive widths below on or off. Good "
+"for testing purposes."
+msgstr ""
+
+#: ../functions/admin-config.php:342
+msgid "Tablet: Main Container Width"
+msgstr ""
+
+#: ../functions/admin-config.php:353
+msgid "Tablet: Left Container Width"
+msgstr ""
+
+#: ../functions/admin-config.php:364
+msgid "Tablet: Sidebar Width"
+msgstr ""
+
+#: ../functions/admin-config.php:375
+msgid "Mobile Landscape: Main Container Width"
+msgstr ""
+
+#: ../functions/admin-config.php:385
+msgid "Mobile Portrait: Main Container Width"
+msgstr ""
+
+#: ../functions/admin-config.php:420
+msgid "Background"
+msgstr ""
+
+#: ../functions/admin-config.php:432
+#: ../functions/visual-composer/add-params.php:92
+#: ../functions/visual-composer/add-params.php:226
+msgid "Background Color"
+msgstr ""
+
+#: ../functions/admin-config.php:434
+msgid "Select your custom background color."
+msgstr ""
+
+#: ../functions/admin-config.php:440 ../functions/meta/usage.php:141
+#: ../functions/meta/usage.php:432 ../functions/meta/usage.php:557
+#: ../functions/visual-composer/add-params.php:234
+msgid "Background Image"
+msgstr ""
+
+#: ../functions/admin-config.php:441
+msgid "Toggle the custom background image option on/off."
+msgstr ""
+
+#: ../functions/admin-config.php:452
+msgid "Custom Background Image"
+msgstr ""
+
+#: ../functions/admin-config.php:454
+msgid "Upload a custom background for your site."
+msgstr ""
+
+#: ../functions/admin-config.php:460
+#: ../functions/visual-composer/add-params.php:242
+msgid "Background Image Style"
+msgstr ""
+
+#: ../functions/admin-config.php:462
+msgid "Select your preferred background style."
+msgstr ""
+
+#: ../functions/admin-config.php:464
+#: ../functions/visual-composer/add-params.php:245
+msgid "Stretched"
+msgstr ""
+
+#: ../functions/admin-config.php:464
+#: ../functions/visual-composer/add-params.php:248
+msgid "Repeat"
+msgstr ""
+
+#: ../functions/admin-config.php:464
+msgid "Center Fixed"
+msgstr ""
+
+#: ../functions/admin-config.php:471
+msgid "Background Pattern"
+msgstr ""
+
+#: ../functions/admin-config.php:472
+msgid "Toggle the background pattern option on/off."
+msgstr ""
+
+#: ../functions/admin-config.php:483
+msgid "Images Option"
+msgstr ""
+
+#: ../functions/admin-config.php:484
+msgid "Select a background pattern."
+msgstr ""
+
+#: ../functions/admin-config.php:496 ../functions/admin-config.php:864
+msgid "Header"
+msgstr ""
+
+#: ../functions/admin-config.php:507
+msgid "Header Style"
+msgstr ""
+
+#: ../functions/admin-config.php:508
+msgid "Select your default header style."
+msgstr ""
+
+#: ../functions/admin-config.php:510
+msgid "Header 1"
+msgstr ""
+
+#: ../functions/admin-config.php:510
+msgid "Header 2"
+msgstr ""
+
+#: ../functions/admin-config.php:510
+msgid "Header 3"
+msgstr ""
+
+#: ../functions/admin-config.php:517
+msgid "Fixed Header on Scroll"
+msgstr ""
+
+#: ../functions/admin-config.php:518
+msgid "Toggle the fixed header when the user scrolls down the site on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:527
+msgid "Header Search"
+msgstr ""
+
+#: ../functions/admin-config.php:528
+msgid "Toggle the search function in the header on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:538
+msgid "Top Level Dropdown Icon"
+msgstr ""
+
+#: ../functions/admin-config.php:539
+msgid "Toggle the top menu dropdown icon indicator on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:548
+msgid "Second+ Level Dropdown Icon"
+msgstr ""
+
+#: ../functions/admin-config.php:549
+msgid "Toggle the sub-menu item dropdown icon indicator on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:558
+msgid "Header Top Padding"
+msgstr ""
+
+#: ../functions/admin-config.php:559 ../functions/admin-config.php:568
+msgid "Enter your custom header top padding in pixels."
+msgstr ""
+
+#: ../functions/admin-config.php:567
+msgid "Header Bottom Padding"
+msgstr ""
+
+#: ../functions/admin-config.php:576
+msgid "Logo Top Margin"
+msgstr ""
+
+#: ../functions/admin-config.php:577 ../functions/admin-config.php:586
+msgid "Enter your custom logo top margin."
+msgstr ""
+
+#: ../functions/admin-config.php:585
+msgid "Logo Bottom Margin"
+msgstr ""
+
+#: ../functions/admin-config.php:594
+msgid "Header Aside Content"
+msgstr ""
+
+#: ../functions/admin-config.php:595
+msgid "Enter your custom header aside content"
+msgstr ""
+
+#: ../functions/admin-config.php:607
+msgid "Typography"
+msgstr ""
+
+#: ../functions/admin-config.php:618
+msgid "Body"
+msgstr ""
+
+#: ../functions/admin-config.php:632
+msgid "Select your custom font options for your main body font."
+msgstr ""
+
+#: ../functions/admin-config.php:643
+msgid "Headings"
+msgstr ""
+
+#: ../functions/admin-config.php:657
+msgid "Select your custom font options for your headings. h1, h2, h3, h4"
+msgstr ""
+
+#: ../functions/admin-config.php:682
+msgid "Select your custom font options for your logo."
+msgstr ""
+
+#: ../functions/admin-config.php:693 ../functions/scripts.php:71
+msgid "Menu"
+msgstr ""
+
+#: ../functions/admin-config.php:707
+msgid "Select your custom font options for your main navigation menu."
+msgstr ""
+
+#: ../functions/admin-config.php:718
+msgid "Menu Dropdowns"
+msgstr ""
+
+#: ../functions/admin-config.php:732
+msgid ""
+"Select your custom font options for your main navigation menu dropdowns."
+msgstr ""
+
+#: ../functions/admin-config.php:743
+msgid "Page Title"
+msgstr ""
+
+#: ../functions/admin-config.php:757
+msgid "Select your custom font options for your page/post titles."
+msgstr ""
+
+#: ../functions/admin-config.php:774
+msgid "Styling"
+msgstr ""
+
+#: ../functions/admin-config.php:792
+msgid "Custom Styling"
+msgstr ""
+
+#: ../functions/admin-config.php:793
+msgid ""
+"Use this option to toggle the custom styling options below on or off. Great "
+"for testing purposes."
+msgstr ""
+
+#: ../functions/admin-config.php:802 ../functions/theme-setup.php:21
+msgid "Main"
+msgstr ""
+
+#: ../functions/admin-config.php:808
+msgid "Links Color"
+msgstr ""
+
+#: ../functions/admin-config.php:809 ../functions/admin-config.php:826
+#: ../functions/admin-config.php:835 ../functions/admin-config.php:845
+#: ../functions/admin-config.php:854 ../functions/admin-config.php:871
+#: ../functions/admin-config.php:881 ../functions/admin-config.php:891
+#: ../functions/admin-config.php:902 ../functions/admin-config.php:912
+#: ../functions/admin-config.php:923 ../functions/admin-config.php:939
+#: ../functions/admin-config.php:949 ../functions/admin-config.php:958
+#: ../functions/admin-config.php:969 ../functions/admin-config.php:979
+#: ../functions/admin-config.php:989 ../functions/admin-config.php:998
+#: ../functions/admin-config.php:1007 ../functions/admin-config.php:1018
+#: ../functions/admin-config.php:1033 ../functions/admin-config.php:1065
+#: ../functions/admin-config.php:1083 ../functions/admin-config.php:1104
+#: ../functions/admin-config.php:1114 ../functions/admin-config.php:1124
+#: ../functions/admin-config.php:1134 ../functions/admin-config.php:1152
+#: ../functions/admin-config.php:1173 ../functions/admin-config.php:1183
+#: ../functions/admin-config.php:1816 ../functions/admin-config.php:2244
+msgid "Select your custom hex color."
+msgstr ""
+
+#: ../functions/admin-config.php:819 ../functions/tinymce/mce-buttons.php:59
+msgid "Theme Button"
+msgstr ""
+
+#: ../functions/admin-config.php:825
+msgid "Theme Button Background"
+msgstr ""
+
+#: ../functions/admin-config.php:834
+msgid "Theme Button Color"
+msgstr ""
+
+#: ../functions/admin-config.php:844
+msgid "Theme Button Hover Background"
+msgstr ""
+
+#: ../functions/admin-config.php:853
+msgid "Theme Button Hover Color"
+msgstr ""
+
+#: ../functions/admin-config.php:870
+msgid "Header Background Color"
+msgstr ""
+
+#: ../functions/admin-config.php:880
+msgid "Logo Color"
+msgstr ""
+
+#: ../functions/admin-config.php:890
+msgid "Shop Button Background"
+msgstr ""
+
+#: ../functions/admin-config.php:901
+msgid "Shop Button Color"
+msgstr ""
+
+#: ../functions/admin-config.php:911
+msgid "Search Button Background"
+msgstr ""
+
+#: ../functions/admin-config.php:922
+msgid "Search Button Color"
+msgstr ""
+
+#: ../functions/admin-config.php:932
+msgid "Navigation"
+msgstr ""
+
+#: ../functions/admin-config.php:938
+msgid "Menu Background"
+msgstr ""
+
+#: ../functions/admin-config.php:948
+msgid "Menu Borders"
+msgstr ""
+
+#: ../functions/admin-config.php:957
+msgid "Menu Link Color"
+msgstr ""
+
+#: ../functions/admin-config.php:968
+msgid "Hover Menu Link Background"
+msgstr ""
+
+#: ../functions/admin-config.php:978
+msgid "Active Menu Link Background"
+msgstr ""
+
+#: ../functions/admin-config.php:988
+msgid "Menu Dropdown Background"
+msgstr ""
+
+#: ../functions/admin-config.php:997
+msgid "Menu Dropdown Borders"
+msgstr ""
+
+#: ../functions/admin-config.php:1006
+msgid "Dropdown Menu Link Color"
+msgstr ""
+
+#: ../functions/admin-config.php:1017
+msgid "Menu Dropdown Link Hover Background"
+msgstr ""
+
+#: ../functions/admin-config.php:1026
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions/admin-config.php:1032
+msgid "Sidebar Background"
+msgstr ""
+
+#: ../functions/admin-config.php:1045
+msgid "Sidebar Padding"
+msgstr ""
+
+#: ../functions/admin-config.php:1046
+msgid "Select your custom sidebar padding"
+msgstr ""
+
+#: ../functions/admin-config.php:1053
+msgid "Sidebar border"
+msgstr ""
+
+#: ../functions/admin-config.php:1054 ../functions/admin-config.php:1093
+#: ../functions/admin-config.php:1162
+msgid "Select your border style."
+msgstr ""
+
+#: ../functions/admin-config.php:1064
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: ../functions/admin-config.php:1076 ../functions/admin-config.php:2198
+#: ../functions/theme-setup.php:22
+msgid "Footer"
+msgstr ""
+
+#: ../functions/admin-config.php:1082
+msgid "Footer Background"
+msgstr ""
+
+#: ../functions/admin-config.php:1092
+msgid "Footer border"
+msgstr ""
+
+#: ../functions/admin-config.php:1103
+msgid "Footer Color"
+msgstr ""
+
+#: ../functions/admin-config.php:1113
+msgid "Footer Headings Color"
+msgstr ""
+
+#: ../functions/admin-config.php:1123
+msgid "Footer Borders"
+msgstr ""
+
+#: ../functions/admin-config.php:1133
+msgid "Footer Link Color"
+msgstr ""
+
+#: ../functions/admin-config.php:1145
+msgid "Bottom Footer"
+msgstr ""
+
+#: ../functions/admin-config.php:1151
+msgid "Bottom Footer Background"
+msgstr ""
+
+#: ../functions/admin-config.php:1161
+msgid "Bottom Footer Top border"
+msgstr ""
+
+#: ../functions/admin-config.php:1172
+msgid "Bottom Footer Color"
+msgstr ""
+
+#: ../functions/admin-config.php:1182
+msgid "Bottom Footer Link Color"
+msgstr ""
+
+#: ../functions/admin-config.php:1200 ../functions/breadcrumbs.php:55
+#: ../functions/post-types-taxonomies/post-type-labels.php:20
+#: ../functions/post-types-taxonomies/register-portfolio.php:36
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:15
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:55
+msgid "Portfolio"
+msgstr ""
+
+#: ../functions/admin-config.php:1207
+msgid "Portfolio Post Type"
+msgstr ""
+
+#: ../functions/admin-config.php:1208
+msgid "Toggle the portfolio custom post type on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1217
+msgid "Portfolio URL"
+msgstr ""
+
+#: ../functions/admin-config.php:1219
+msgid ""
+"Enter the URL to your main portfolio page. This is used for your breadcrumbs."
+msgstr ""
+
+#: ../functions/admin-config.php:1228
+msgid "Portfolio Comments"
+msgstr ""
+
+#: ../functions/admin-config.php:1229
+msgid "Toggle the comments on portfolio posts on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1239
+msgid "Portfolio Next/Prev Links"
+msgstr ""
+
+#: ../functions/admin-config.php:1240
+msgid "Toggle the next and previous pagination on portfolio posts on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1250
+msgid "Portfolio Related"
+msgstr ""
+
+#: ../functions/admin-config.php:1251
+msgid "Toggle the related portfolio items on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1261
+msgid "Portfolio Related Count"
+msgstr ""
+
+#: ../functions/admin-config.php:1263
+msgid ""
+"Enter the number of related portfolio items to display on your single posts."
+msgstr ""
+
+#: ../functions/admin-config.php:1272
+msgid "Portfolio Related Title"
+msgstr ""
+
+#: ../functions/admin-config.php:1274
+msgid "Enter a custom string for your related portfolio items title."
+msgstr ""
+
+#: ../functions/admin-config.php:1283
+msgid "Portfolio in Search?"
+msgstr ""
+
+#: ../functions/admin-config.php:1284 ../functions/admin-config.php:1487
+#: ../functions/admin-config.php:1622
+msgid ""
+"Toggle whether items from this post type should display in search results on "
+"or off. Enabling this option will also cause items to not display in the "
+"category & tag archives, so use wisely!"
+msgstr ""
+
+#: ../functions/admin-config.php:1294
+msgid "Detailed Entries"
+msgstr ""
+
+#: ../functions/admin-config.php:1295
+msgid ""
+"Toggle the portfolio entry title/excerpts from your category and tag "
+"archives."
+msgstr ""
+
+#: ../functions/admin-config.php:1305
+msgid "Custom Portfolio Sidebar"
+msgstr ""
+
+#: ../functions/admin-config.php:1306
+msgid ""
+"Toggle the built-in custom Portfolio post type sidebar on or off. If "
+"disabled it will display the \"Main\" sidebar as a fallback."
+msgstr ""
+
+#: ../functions/admin-config.php:1316
+msgid "Portfolio Archive Columns"
+msgstr ""
+
+#: ../functions/admin-config.php:1317 ../functions/admin-config.php:1509
+#: ../functions/admin-config.php:1632
+msgid ""
+"Select your default column structure for your category and tag archives."
+msgstr ""
+
+#: ../functions/admin-config.php:1327
+msgid "Portfolio Archives Layout"
+msgstr ""
+
+#: ../functions/admin-config.php:1328 ../functions/admin-config.php:1339
+#: ../functions/admin-config.php:1531 ../functions/admin-config.php:1642
+#: ../functions/admin-config.php:1880
+msgid ""
+"Select your preferred layout for your single posts. This setting can be "
+"overriten on a per post basis via the meta options."
+msgstr ""
+
+#: ../functions/admin-config.php:1330 ../functions/admin-config.php:1341
+#: ../functions/admin-config.php:1522 ../functions/admin-config.php:1533
+#: ../functions/admin-config.php:1644 ../functions/admin-config.php:1765
+#: ../functions/admin-config.php:1784 ../functions/admin-config.php:1872
+#: ../functions/admin-config.php:1882 ../functions/admin-config.php:2495
+#: ../functions/meta/usage.php:57 ../functions/meta/usage.php:183
+#: ../functions/meta/usage.php:348 ../functions/meta/usage.php:473
+#: ../functions/meta/taxonomies/category-meta.php:62
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions/admin-config.php:1330 ../functions/admin-config.php:1341
+#: ../functions/admin-config.php:1522 ../functions/admin-config.php:1533
+#: ../functions/admin-config.php:1644 ../functions/admin-config.php:1765
+#: ../functions/admin-config.php:1784 ../functions/admin-config.php:1872
+#: ../functions/admin-config.php:1882 ../functions/admin-config.php:2495
+#: ../functions/meta/usage.php:61 ../functions/meta/usage.php:187
+#: ../functions/meta/usage.php:352 ../functions/meta/usage.php:477
+#: ../functions/meta/taxonomies/category-meta.php:63
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../functions/admin-config.php:1338
+msgid "Portfolio Single Post Layout"
+msgstr ""
+
+#: ../functions/admin-config.php:1350
+msgid "Portfolio Admin Icon"
+msgstr ""
+
+#: ../functions/admin-config.php:1351
+msgid "Upload a custom 16px by 16px portfolio admin icon."
+msgstr ""
+
+#: ../functions/admin-config.php:1358
+msgid "Portfolio Labels"
+msgstr ""
+
+#: ../functions/admin-config.php:1360
+msgid "Use this field to rename your portfolio custom post type."
+msgstr ""
+
+#: ../functions/admin-config.php:1368
+msgid "Portfolio Slug"
+msgstr ""
+
+#: ../functions/admin-config.php:1370
+msgid "Use this field to alter the default slug for portfolio items."
+msgstr ""
+
+#: ../functions/admin-config.php:1378
+msgid "Portfolio Category Slug"
+msgstr ""
+
+#: ../functions/admin-config.php:1380
+msgid ""
+"Use this field to alter the default slug for the portfolio category taxonomy."
+msgstr ""
+
+#: ../functions/admin-config.php:1388
+msgid "Portfolio Tag Slug"
+msgstr ""
+
+#: ../functions/admin-config.php:1390
+msgid ""
+"Use this field to alter the default slug for the portfolio tag taxonomy."
+msgstr ""
+
+#: ../functions/admin-config.php:1403 ../functions/breadcrumbs.php:57
+#: ../functions/post-types-taxonomies/post-type-labels.php:54
+#: ../functions/post-types-taxonomies/register-staff.php:36
+msgid "Staff"
+msgstr ""
+
+#: ../functions/admin-config.php:1410
+msgid "Staff Post Type"
+msgstr ""
+
+#: ../functions/admin-config.php:1411
+msgid "Toggle the staff custom post type on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1420
+msgid "Staff URL"
+msgstr ""
+
+#: ../functions/admin-config.php:1422
+msgid ""
+"Enter the URL to your main staff page. This is used for your breadcrumbs."
+msgstr ""
+
+#: ../functions/admin-config.php:1431
+msgid "Staff Comments"
+msgstr ""
+
+#: ../functions/admin-config.php:1432
+msgid "Toggle the comments on staff posts on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1442
+msgid "Staff Next/Prev Links"
+msgstr ""
+
+#: ../functions/admin-config.php:1443
+msgid "Toggle the next and previous pagination on staff posts on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1453
+msgid "Staff Related"
+msgstr ""
+
+#: ../functions/admin-config.php:1454
+msgid "Toggle the related staff items on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1464
+msgid "Staff Related Count"
+msgstr ""
+
+#: ../functions/admin-config.php:1466
+msgid ""
+"Enter the number of related staff items to display on your single posts."
+msgstr ""
+
+#: ../functions/admin-config.php:1475
+msgid "Staff Related Title"
+msgstr ""
+
+#: ../functions/admin-config.php:1477
+msgid "Enter a custom string for your related staff items title."
+msgstr ""
+
+#: ../functions/admin-config.php:1486
+msgid "Staff in Search?"
+msgstr ""
+
+#: ../functions/admin-config.php:1497
+msgid "Custom Staff Sidebar"
+msgstr ""
+
+#: ../functions/admin-config.php:1498
+msgid ""
+"Toggle the built-in custom Staff post type sidebar on or off. If disabled it "
+"will display the \"Main\" sidebar as a fallback."
+msgstr ""
+
+#: ../functions/admin-config.php:1508
+msgid "Staff Archive Columns"
+msgstr ""
+
+#: ../functions/admin-config.php:1519
+msgid "Staff Archives Layout"
+msgstr ""
+
+#: ../functions/admin-config.php:1520
+msgid ""
+"Select your preferred layout for your posts. This setting can be overriten "
+"on a per post basis via the meta options."
+msgstr ""
+
+#: ../functions/admin-config.php:1530
+msgid "Staff Single Post Layout"
+msgstr ""
+
+#: ../functions/admin-config.php:1542
+msgid "Staff Admin Icon"
+msgstr ""
+
+#: ../functions/admin-config.php:1543
+msgid "Upload a custom 16px by 16px staff admin icon."
+msgstr ""
+
+#: ../functions/admin-config.php:1550
+msgid "Staff Labels"
+msgstr ""
+
+#: ../functions/admin-config.php:1552
+msgid "Use this field to rename your staff custom post type."
+msgstr ""
+
+#: ../functions/admin-config.php:1560
+msgid "Staff Slug"
+msgstr ""
+
+#: ../functions/admin-config.php:1562
+msgid "Use this field to alter the default slug for staff items."
+msgstr ""
+
+#: ../functions/admin-config.php:1570
+msgid "Staff Category Slug"
+msgstr ""
+
+#: ../functions/admin-config.php:1572
+msgid ""
+"Use this field to alter the default slug for the staff category taxonomy."
+msgstr ""
+
+#: ../functions/admin-config.php:1580
+msgid "Staff Tag Slug"
+msgstr ""
+
+#: ../functions/admin-config.php:1582
+msgid "Use this field to alter the default slug for the staff tag taxonomy."
+msgstr ""
+
+#: ../functions/admin-config.php:1596 ../functions/breadcrumbs.php:56
+#: ../functions/post-types-taxonomies/post-type-labels.php:87
+#: ../functions/post-types-taxonomies/register-testimonials.php:36
+msgid "Testimonials"
+msgstr ""
+
+#: ../functions/admin-config.php:1602
+msgid "Testimonials Post Type"
+msgstr ""
+
+#: ../functions/admin-config.php:1603
+msgid "Toggle the testimonials custom post type on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1611
+msgid "Testimonials Next/Prev Links"
+msgstr ""
+
+#: ../functions/admin-config.php:1612
+msgid ""
+"Toggle the next and previous pagination on testimonials posts on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1621
+msgid "Testimonials in Search?"
+msgstr ""
+
+#: ../functions/admin-config.php:1631
+msgid "Testimonials Archive Columns"
+msgstr ""
+
+#: ../functions/admin-config.php:1641
+msgid "Testimonials Archives Layout"
+msgstr ""
+
+#: ../functions/admin-config.php:1652
+msgid "Testimonials Admin Icon"
+msgstr ""
+
+#: ../functions/admin-config.php:1653
+msgid "Upload a custom 16px by 16px testimonials admin icon."
+msgstr ""
+
+#: ../functions/admin-config.php:1659
+msgid "Testimonials URL"
+msgstr ""
+
+#: ../functions/admin-config.php:1661
+msgid ""
+"Enter the URL to your main testimonials page. This is used for your "
+"breadcrumbs."
+msgstr ""
+
+#: ../functions/admin-config.php:1669
+msgid "Testimonials Labels"
+msgstr ""
+
+#: ../functions/admin-config.php:1671
+msgid "Use this field to rename your testimonials custom post type."
+msgstr ""
+
+#: ../functions/admin-config.php:1678
+msgid "Testimonials Slug"
+msgstr ""
+
+#: ../functions/admin-config.php:1680
+msgid "Use this field to alter the default slug for testimonials items."
+msgstr ""
+
+#: ../functions/admin-config.php:1687
+msgid "Testimonials Category Slug"
+msgstr ""
+
+#: ../functions/admin-config.php:1689
+msgid ""
+"Use this field to alter the default slug for the testimonials category "
+"taxonomy."
+msgstr ""
+
+#: ../functions/admin-config.php:1706
+msgid "WooCommerce"
+msgstr ""
+
+#: ../functions/admin-config.php:1713
+msgid "Cart In Menu"
+msgstr ""
+
+#: ../functions/admin-config.php:1714
+msgid "Toggle the menu shopping cart on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1723 ../functions/widgets/widget-areas.php:77
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: ../functions/admin-config.php:1724
+msgid ""
+"Toggle the built-in custom WooCommerce sidebar on or off. If disabled it "
+"will display the \"Main\" sidebar as a fallback."
+msgstr ""
+
+#: ../functions/admin-config.php:1733 ../functions/admin-config.php:1743
+msgid "Shop Title"
+msgstr ""
+
+#: ../functions/admin-config.php:1734
+msgid "Toggle the main shop page title on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1745
+msgid "Enter your custom shop title."
+msgstr ""
+
+#: ../functions/admin-config.php:1753
+msgid "Shop Slider"
+msgstr ""
+
+#: ../functions/admin-config.php:1755
+msgid "Insert your slider shortcode for your products archive."
+msgstr ""
+
+#: ../functions/admin-config.php:1762
+msgid "Shop Layout"
+msgstr ""
+
+#: ../functions/admin-config.php:1763
+msgid "Select your preferred layout for your WooCommmerce Shop."
+msgstr ""
+
+#: ../functions/admin-config.php:1772
+msgid "Shop Columns"
+msgstr ""
+
+#: ../functions/admin-config.php:1773
+msgid "Select how many columns you want for the main WooCommerce shop."
+msgstr ""
+
+#: ../functions/admin-config.php:1781
+msgid "Product Layout"
+msgstr ""
+
+#: ../functions/admin-config.php:1782
+msgid "Select your preferred layout for your WooCommmerce products."
+msgstr ""
+
+#: ../functions/admin-config.php:1791
+msgid "How many related items?"
+msgstr ""
+
+#: ../functions/admin-config.php:1792
+msgid "Enter the ammount of related items to display on product pages."
+msgstr ""
+
+#: ../functions/admin-config.php:1800
+msgid "Related Products Columns"
+msgstr ""
+
+#: ../functions/admin-config.php:1801
+msgid "Select how many columns you want for the related products section."
+msgstr ""
+
+#: ../functions/admin-config.php:1809
+msgid "Custom Colors"
+msgstr ""
+
+#: ../functions/admin-config.php:1815
+msgid "OnSale Background"
+msgstr ""
+
+#: ../functions/admin-config.php:1831 ../functions/breadcrumbs.php:52
+msgid "Blog"
+msgstr ""
+
+#: ../functions/admin-config.php:1838
+msgid "Blog URL"
+msgstr ""
+
+#: ../functions/admin-config.php:1840
+msgid ""
+"Enter the URL to your main blog page. This is used for your breadcrumbs."
+msgstr ""
+
+#: ../functions/admin-config.php:1848
+msgid "Blog Style"
+msgstr ""
+
+#: ../functions/admin-config.php:1849
+msgid "Select your preferred blog style."
+msgstr ""
+
+#: ../functions/admin-config.php:1851
+#: ../functions/meta/taxonomies/category-meta.php:31
+msgid "Large Image"
+msgstr ""
+
+#: ../functions/admin-config.php:1851 ../functions/dashboard-thumbnails.php:16
+#: ../functions/meta/taxonomies/category-meta.php:32
+msgid "Thumbnail"
+msgstr ""
+
+#: ../functions/admin-config.php:1851
+#: ../functions/meta/taxonomies/category-meta.php:33
+msgid "Grid"
+msgstr ""
+
+#: ../functions/admin-config.php:1858
+msgid "Grid Style Columns"
+msgstr ""
+
+#: ../functions/admin-config.php:1859
+msgid "Select how many columns you want for your grid style blog archives."
+msgstr ""
+
+#: ../functions/admin-config.php:1869
+msgid "Blog Archives Layout"
+msgstr ""
+
+#: ../functions/admin-config.php:1870
+msgid ""
+"Select your preferred layout for your main blog page, categories and tags."
+msgstr ""
+
+#: ../functions/admin-config.php:1879
+msgid "Single Post Layout"
+msgstr ""
+
+#: ../functions/admin-config.php:1889
+msgid "Pagination Style"
+msgstr ""
+
+#: ../functions/admin-config.php:1890
+msgid "Select your preferred pagination style for the blog."
+msgstr ""
+
+#: ../functions/admin-config.php:1892
+#: ../functions/meta/taxonomies/category-meta.php:78
+msgid "Standard"
+msgstr ""
+
+#: ../functions/admin-config.php:1892
+msgid "Infinite Scroll"
+msgstr ""
+
+#: ../functions/admin-config.php:1892
+msgid "Next/Prev"
+msgstr ""
+
+#: ../functions/admin-config.php:1901
+msgid "Exclude Categories From Blog"
+msgstr ""
+
+#: ../functions/admin-config.php:1902
+msgid ""
+"Use this option to exclude categories from your main blog template and/or "
+"your index (if using the homepage as a blog)"
+msgstr ""
+
+#: ../functions/admin-config.php:1908
+#: ../functions/post-types-taxonomies/register-post-series.php:26
+#: ../functions/post-types-taxonomies/register-post-series.php:27
+#: ../functions/post-types-taxonomies/register-post-series.php:40
+msgid "Post Series"
+msgstr ""
+
+#: ../functions/admin-config.php:1909
+msgid "Toggle the post series custom taxonomy on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1918
+msgid "Entry: Auto Excerpts"
+msgstr ""
+
+#: ../functions/admin-config.php:1919
+msgid "Toggle your blog auto excerpts on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1928
+msgid "Entry Excerpt length"
+msgstr ""
+
+#: ../functions/admin-config.php:1930
+msgid "How many words do you want to show for your blog entry excerpts?"
+msgstr ""
+
+#: ../functions/admin-config.php:1939
+msgid "Entry: Read More Button"
+msgstr ""
+
+#: ../functions/admin-config.php:1940
+msgid "Toggle the blog entry read more button on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1949
+msgid "Entry: Author Avatar"
+msgstr ""
+
+#: ../functions/admin-config.php:1950
+msgid ""
+"Toggle the author avatar on your blog entries on or off. Note: This option "
+"only applies to certain blog styles."
+msgstr ""
+
+#: ../functions/admin-config.php:1960
+msgid "Post: Featured Image"
+msgstr ""
+
+#: ../functions/admin-config.php:1961
+msgid "Toggle the display of featured images on single blog posts on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1970
+msgid "Post: Author Bio"
+msgstr ""
+
+#: ../functions/admin-config.php:1971
+msgid "Toggle the author bio box on single blog posts on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1980
+msgid "Post: Tags"
+msgstr ""
+
+#: ../functions/admin-config.php:1981
+msgid "Toggle the post tags display on single blog posts on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:1990
+msgid "Post: Related Articles"
+msgstr ""
+
+#: ../functions/admin-config.php:1991
+msgid "Toggle the related articles section on single blog posts on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:2006 ../functions/admin-config.php:2013
+msgid "Image Cropping"
+msgstr ""
+
+#: ../functions/admin-config.php:2014
+msgid "Toggle the built-in image resizing function on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:2023
+msgid "Retina Support"
+msgstr ""
+
+#: ../functions/admin-config.php:2024
+msgid "Toggle the retina support for your resized images on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:2031
+msgid "Blog Entry: Image Width"
+msgstr ""
+
+#: ../functions/admin-config.php:2032 ../functions/admin-config.php:2048
+#: ../functions/admin-config.php:2064 ../functions/admin-config.php:2080
+#: ../functions/admin-config.php:2096 ../functions/admin-config.php:2112
+#: ../functions/admin-config.php:2128 ../functions/admin-config.php:2144
+#: ../functions/admin-config.php:2160 ../functions/admin-config.php:2176
+msgid "Enter your custom width in pixels."
+msgstr ""
+
+#: ../functions/admin-config.php:2039
+msgid "Blog Entry: Image Height"
+msgstr ""
+
+#: ../functions/admin-config.php:2040 ../functions/admin-config.php:2056
+#: ../functions/admin-config.php:2072 ../functions/admin-config.php:2088
+#: ../functions/admin-config.php:2104 ../functions/admin-config.php:2120
+#: ../functions/admin-config.php:2136 ../functions/admin-config.php:2152
+#: ../functions/admin-config.php:2168 ../functions/admin-config.php:2184
+msgid ""
+"Enter your custom height in pixels. Enter 9999 to keep your image "
+"proportions."
+msgstr ""
+
+#: ../functions/admin-config.php:2047
+msgid "Blog Post: Image Width"
+msgstr ""
+
+#: ../functions/admin-config.php:2055
+msgid "Blog Post: Image Height"
+msgstr ""
+
+#: ../functions/admin-config.php:2063
+msgid "Blog Full-Width Post: Image Width"
+msgstr ""
+
+#: ../functions/admin-config.php:2071
+msgid "Blog Full-Width Post: Image Height"
+msgstr ""
+
+#: ../functions/admin-config.php:2079
+msgid "Portfolio Archive Entry: Image Width"
+msgstr ""
+
+#: ../functions/admin-config.php:2087
+msgid "Portfolio Archive Entry: Image Height"
+msgstr ""
+
+#: ../functions/admin-config.php:2095
+msgid "Staff Archive Entry: Image Width"
+msgstr ""
+
+#: ../functions/admin-config.php:2103
+msgid "Staff Archive Entry: Image Height"
+msgstr ""
+
+#: ../functions/admin-config.php:2111
+msgid "Testimonial Archive Entry: Image Width"
+msgstr ""
+
+#: ../functions/admin-config.php:2119
+msgid "Testimonial Archive Entry: Image Height"
+msgstr ""
+
+#: ../functions/admin-config.php:2127
+msgid "WooCommerce Entry: Image Width"
+msgstr ""
+
+#: ../functions/admin-config.php:2135
+msgid "WooCommerce Entry: Image Height"
+msgstr ""
+
+#: ../functions/admin-config.php:2143
+msgid "WooCommerce Post: Image Width"
+msgstr ""
+
+#: ../functions/admin-config.php:2151
+msgid "WooCommerce Post: Image Height"
+msgstr ""
+
+#: ../functions/admin-config.php:2159
+msgid "WooCommerce Category Entry: Image Width"
+msgstr ""
+
+#: ../functions/admin-config.php:2167
+msgid "WooCommerce Category Entry: Image Height"
+msgstr ""
+
+#: ../functions/admin-config.php:2175
+msgid "Custom WP Gallery: Image Width"
+msgstr ""
+
+#: ../functions/admin-config.php:2183
+msgid "Custom WP Gallery: Image Height"
+msgstr ""
+
+#: ../functions/admin-config.php:2205
+msgid "Footer Callout"
+msgstr ""
+
+#: ../functions/admin-config.php:2206
+msgid "Toggle the callout area in the footer on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:2215
+msgid "Footer Callout: Content"
+msgstr ""
+
+#: ../functions/admin-config.php:2216
+msgid "Enter your custom content for your footer callout."
+msgstr ""
+
+#: ../functions/admin-config.php:2225
+msgid "Footer Callout: Link"
+msgstr ""
+
+#: ../functions/admin-config.php:2226
+msgid "Enter a url for your footer callout button."
+msgstr ""
+
+#: ../functions/admin-config.php:2234
+msgid "Footer Callout: Link Text"
+msgstr ""
+
+#: ../functions/admin-config.php:2235
+msgid "Enter the text for your footer callout link."
+msgstr ""
+
+#: ../functions/admin-config.php:2243
+msgid "Footer Callout: Button Background"
+msgstr ""
+
+#: ../functions/admin-config.php:2253
+msgid "Footer Callout: Button Target"
+msgstr ""
+
+#: ../functions/admin-config.php:2254
+msgid "Select your footer callout button link target window."
+msgstr ""
+
+#: ../functions/admin-config.php:2263
+msgid "Footer Callout: Button Rel"
+msgstr ""
+
+#: ../functions/admin-config.php:2264
+msgid "Select your footer callout button link rel value."
+msgstr ""
+
+#: ../functions/admin-config.php:2273
+msgid "Footer Widgets"
+msgstr ""
+
+#: ../functions/admin-config.php:2274
+msgid "Toggle the footer widgets on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:2283
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: ../functions/admin-config.php:2284
+msgid "Select how many columns you want for your footer widgets."
+msgstr ""
+
+#: ../functions/admin-config.php:2294
+msgid "Bottom Footer Area"
+msgstr ""
+
+#: ../functions/admin-config.php:2295
+msgid "Toggle the bottom footer area on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:2304
+msgid "Copyright"
+msgstr ""
+
+#: ../functions/admin-config.php:2305
+msgid "Enter yoru custom copyright text."
+msgstr ""
+
+#: ../functions/admin-config.php:2320
+msgid "Social Sharing"
+msgstr ""
+
+#: ../functions/admin-config.php:2327
+msgid "Blog Posts: Social Share"
+msgstr ""
+
+#: ../functions/admin-config.php:2328 ../functions/admin-config.php:2349
+#: ../functions/admin-config.php:2359 ../functions/admin-config.php:2369
+msgid "Toggle the social sharing for this section of your site on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:2338
+msgid "Blog Entries: Social Share"
+msgstr ""
+
+#: ../functions/admin-config.php:2339
+msgid ""
+"Toggle the social sharing icons on your blog entries on or off. Note: They "
+"will only display on the Large Image style blog entries."
+msgstr ""
+
+#: ../functions/admin-config.php:2348
+msgid "Pages: Social Share"
+msgstr ""
+
+#: ../functions/admin-config.php:2358
+msgid "Portfolio: Social Share"
+msgstr ""
+
+#: ../functions/admin-config.php:2368
+msgid "WooCommerce: Social Share"
+msgstr ""
+
+#: ../functions/admin-config.php:2378
+msgid "Social Sharing Links"
+msgstr ""
+
+#: ../functions/admin-config.php:2379
+msgid ""
+"Select the social sharing links to include in the social sharing function."
+msgstr ""
+
+#: ../functions/admin-config.php:2405
+msgid "SEO"
+msgstr ""
+
+#: ../functions/admin-config.php:2412
+msgid "Sidebar Widget Title Headings"
+msgstr ""
+
+#: ../functions/admin-config.php:2413 ../functions/admin-config.php:2431
+msgid "Select your preferred heading type."
+msgstr ""
+
+#: ../functions/admin-config.php:2430
+msgid "Footer Widget Title Headings"
+msgstr ""
+
+#: ../functions/admin-config.php:2448
+msgid "Breadcrumbs"
+msgstr ""
+
+#: ../functions/admin-config.php:2449
+msgid "Toggle the site breadcrumbs on or off"
+msgstr ""
+
+#: ../functions/admin-config.php:2458
+msgid "Remove Version Parameter From JS & CSS Files"
+msgstr ""
+
+#: ../functions/admin-config.php:2459
+msgid ""
+"Most scripts and stylesheets called by WordPress include a query string "
+"identifying the version. This can cause issues with caching and such, which "
+"will result in less than optimal load times. You can toggle this setting on "
+"to remove the query string from such strings."
+msgstr ""
+
+#: ../functions/admin-config.php:2468
+msgid "Cleanup WP Head"
+msgstr ""
+
+#: ../functions/admin-config.php:2469
+msgid ""
+"Enable to clean up your site's header from auto code added by WP, such as "
+"the WP version."
+msgstr ""
+
+#: ../functions/admin-config.php:2485
+msgid "Other"
+msgstr ""
+
+#: ../functions/admin-config.php:2492 ../functions/meta/usage.php:47
+msgid "Page Layout"
+msgstr ""
+
+#: ../functions/admin-config.php:2493
+msgid ""
+"Select your preferred layout for your pagess. This setting can be overriten "
+"on a per page basis via the meta options."
+msgstr ""
+
+#: ../functions/admin-config.php:2502
+msgid "Custom WordPress Gallery Output"
+msgstr ""
+
+#: ../functions/admin-config.php:2503
+msgid "Toggle the built-in custom WordPress gallery output on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:2512
+msgid "Back To Top Button"
+msgstr ""
+
+#: ../functions/admin-config.php:2513
+msgid "Toggle the back to top button on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:2522
+msgid "Dashboard Featured Images"
+msgstr ""
+
+#: ../functions/admin-config.php:2523
+msgid "Toggle the display of featured images in your WP dashboard on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:2532
+msgid "Comments on Pages"
+msgstr ""
+
+#: ../functions/admin-config.php:2533
+msgid "Toggle the display of comments in pages on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:2542
+msgid "Remove Jetpack devicepx script"
+msgstr ""
+
+#: ../functions/admin-config.php:2543
+msgid ""
+"Toggle the jetpack devicepx script on/off. The file is used to optionally "
+"load retina/HiDPI versions of files (Gravatars etc) which are known to "
+"support it, for devices that run at a higher resolution. But can be disabled "
+"to prevent the extra js call."
+msgstr ""
+
+#: ../functions/admin-config.php:2557
+msgid "Custom CSS"
+msgstr ""
+
+#: ../functions/admin-config.php:2565
+msgid "Design Edits"
+msgstr ""
+
+#: ../functions/admin-config.php:2566
+msgid ""
+"Quickly add some CSS to your theme to make design adjustements by adding it "
+"to this block. It is a much better solution then manually editing style.css"
+msgstr ""
+
+#: ../functions/admin-config.php:2579
+msgid "Theme Updates"
+msgstr ""
+
+#: ../functions/admin-config.php:2584
+msgid "Enable Auto Updates"
+msgstr ""
+
+#: ../functions/admin-config.php:2585
+msgid "You can toggle the automatic updates for your theme on or off."
+msgstr ""
+
+#: ../functions/admin-config.php:2593
+msgid "Item Purchase Code"
+msgstr ""
+
+#: ../functions/admin-config.php:2594
+msgid ""
+"Enter your Envato license key here if you wish to receive auto updates for "
+"your theme."
+msgstr ""
+
+#: ../functions/breadcrumbs.php:72
+msgid "Home"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:312
+msgid "g:i a"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:315
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:315
+msgid "i"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:318
+msgid "g a"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:329 ../functions/breadcrumbs.php:335
+#: ../functions/breadcrumbs.php:340 ../functions/breadcrumbs.php:345
+msgid "Y"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:330 ../functions/breadcrumbs.php:341
+msgid "F"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:331
+msgid "j"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:336
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:352
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: ../functions/breadcrumbs.php:356
+msgid "404 Not Found"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:164
+#: ../functions/recommend-plugins.php:97
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:165
+#: ../functions/recommend-plugins.php:98
+msgid "Install Plugins"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:166
+#: ../functions/recommend-plugins.php:99
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:178
+#: ../functions/class-tgm-plugin-activation.php:490
+#: ../functions/recommend-plugins.php:111
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:179
+#: ../functions/class-tgm-plugin-activation.php:1846
+#: ../functions/recommend-plugins.php:112
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:517
+#: ../functions/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1299
+msgid "Type"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1956
+#: ../functions/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../functions/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../functions/comments-callback.php:25
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions/comments-callback.php:25 ../functions/comments-callback.php:50
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:28
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:68
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:110
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:151
+msgid "Edit"
+msgstr ""
+
+#: ../functions/comments-callback.php:55
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions/comments-callback.php:63
+msgid "reply to comment"
+msgstr ""
+
+#: ../functions/excerpts.php:26
+msgid "view post"
+msgstr ""
+
+#: ../functions/page-header.php:29
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../functions/page-header.php:33
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../functions/page-header.php:37
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../functions/page-header.php:49
+msgid "Search Results Found"
+msgstr ""
+
+#: ../functions/page-header.php:54
+msgid "404: Page Not Found"
+msgstr ""
+
+#: ../functions/pagination.php:67 ../functions/pagination.php:105
+msgid "Newer Posts"
+msgstr ""
+
+#: ../functions/pagination.php:70 ../functions/pagination.php:108
+msgid "Older Posts"
+msgstr ""
+
+#: ../functions/pagination.php:98
+msgid "Loading..."
+msgstr ""
+
+#: ../functions/post-meta.php:28
+msgid "0 Comments"
+msgstr ""
+
+#: ../functions/post-meta.php:28
+msgid "1 Comment"
+msgstr ""
+
+#: ../functions/post-meta.php:28
+msgid "% Comments"
+msgstr ""
+
+#: ../functions/post-readmore-link.php:18
+msgid "Continue Reading"
+msgstr ""
+
+#: ../functions/recommend-plugins.php:100
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../functions/recommend-plugins.php:113
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../functions/search-overlay.php:24
+#: ../functions/post-types-taxonomies/post-type-labels.php:32
+#: ../functions/post-types-taxonomies/post-type-labels.php:65
+#: ../functions/post-types-taxonomies/post-type-labels.php:98
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:23
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:63
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:105
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:146
+msgid "Search"
+msgstr ""
+
+#: ../functions/social-share.php:51
+msgid "Please Share This"
+msgstr ""
+
+#: ../functions/social-share.php:82
+msgid "Share on Twitter"
+msgstr ""
+
+#: ../functions/social-share.php:87
+msgid "Share on Facebook"
+msgstr ""
+
+#: ../functions/social-share.php:92
+msgid "Share on Google+"
+msgstr ""
+
+#: ../functions/social-share.php:97
+msgid "Share on Pinterest"
+msgstr ""
+
+#: ../functions/social-share.php:102
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: ../functions/theme-setup.php:23
+msgid "Mobile Icons"
+msgstr ""
+
+#: ../functions/meta/init.php:650
+msgid "Please Try Again"
+msgstr ""
+
+#: ../functions/meta/init.php:669
+msgid "Remove Embed"
+msgstr ""
+
+#: ../functions/meta/init.php:675
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: ../functions/meta/usage.php:24
+msgid "Page Settings"
+msgstr ""
+
+#: ../functions/meta/usage.php:31
+msgid "Site Layout"
+msgstr ""
+
+#: ../functions/meta/usage.php:37
+msgid "Full-Width"
+msgstr ""
+
+#: ../functions/meta/usage.php:65 ../functions/meta/usage.php:191
+#: ../functions/meta/usage.php:356 ../functions/meta/usage.php:481
+msgid "No Sidebar"
+msgstr ""
+
+#: ../functions/meta/usage.php:69 ../functions/meta/usage.php:360
+#: ../functions/meta/usage.php:485
+msgid "Full Screen"
+msgstr ""
+
+#: ../functions/meta/usage.php:75 ../functions/meta/usage.php:197
+#: ../functions/meta/usage.php:366 ../functions/meta/usage.php:491
+msgid "Disable Header"
+msgstr ""
+
+#: ../functions/meta/usage.php:76 ../functions/meta/usage.php:198
+#: ../functions/meta/usage.php:367 ../functions/meta/usage.php:492
+msgid "Check to disable the main header."
+msgstr ""
+
+#: ../functions/meta/usage.php:81 ../functions/meta/usage.php:203
+#: ../functions/meta/usage.php:372 ../functions/meta/usage.php:497
+msgid "Disable Title"
+msgstr ""
+
+#: ../functions/meta/usage.php:82 ../functions/meta/usage.php:204
+#: ../functions/meta/usage.php:373 ../functions/meta/usage.php:498
+msgid "Check to disable the main title."
+msgstr ""
+
+#: ../functions/meta/usage.php:87 ../functions/meta/usage.php:209
+#: ../functions/meta/usage.php:378 ../functions/meta/usage.php:503
+msgid "Disable Title Margin"
+msgstr ""
+
+#: ../functions/meta/usage.php:88 ../functions/meta/usage.php:210
+#: ../functions/meta/usage.php:379 ../functions/meta/usage.php:504
+msgid "Check to disable the bottom margin on the main page header."
+msgstr ""
+
+#: ../functions/meta/usage.php:93 ../functions/meta/usage.php:215
+#: ../functions/meta/usage.php:384 ../functions/meta/usage.php:509
+msgid "Disable Callout"
+msgstr ""
+
+#: ../functions/meta/usage.php:94 ../functions/meta/usage.php:216
+#: ../functions/meta/usage.php:385 ../functions/meta/usage.php:510
+msgid "Check to disable the footer callout area if active."
+msgstr ""
+
+#: ../functions/meta/usage.php:99 ../functions/meta/usage.php:221
+#: ../functions/meta/usage.php:390 ../functions/meta/usage.php:515
+msgid "Disable Footer"
+msgstr ""
+
+#: ../functions/meta/usage.php:100 ../functions/meta/usage.php:222
+#: ../functions/meta/usage.php:391 ../functions/meta/usage.php:516
+msgid "Check to disable the main footer."
+msgstr ""
+
+#: ../functions/meta/usage.php:105 ../functions/meta/usage.php:396
+#: ../functions/meta/usage.php:521
+msgid "Page Subheading"
+msgstr ""
+
+#: ../functions/meta/usage.php:106 ../functions/meta/usage.php:397
+#: ../functions/meta/usage.php:522
+msgid "Enter your page subheading. Shortcodes & HTML is allowed."
+msgstr ""
+
+#: ../functions/meta/usage.php:111 ../functions/meta/usage.php:227
+#: ../functions/meta/usage.php:402 ../functions/meta/usage.php:527
+msgid "Slider Shortcode"
+msgstr ""
+
+#: ../functions/meta/usage.php:112 ../functions/meta/usage.php:228
+#: ../functions/meta/usage.php:403 ../functions/meta/usage.php:528
+msgid ""
+"Enter a slider shortcode here to display a slider at the top of the page."
+msgstr ""
+
+#: ../functions/meta/usage.php:117 ../functions/meta/usage.php:233
+#: ../functions/meta/usage.php:408 ../functions/meta/usage.php:533
+msgid "Slider Bottom Margin"
+msgstr ""
+
+#: ../functions/meta/usage.php:118 ../functions/meta/usage.php:234
+#: ../functions/meta/usage.php:409 ../functions/meta/usage.php:534
+msgid "Enter a bottom margin for your slider in pixels"
+msgstr ""
+
+#: ../functions/meta/usage.php:123 ../functions/meta/usage.php:414
+#: ../functions/meta/usage.php:539
+msgid "Title Style"
+msgstr ""
+
+#: ../functions/meta/usage.php:133 ../functions/meta/usage.php:424
+#: ../functions/meta/usage.php:549
+msgid "Centered"
+msgstr ""
+
+#: ../functions/meta/usage.php:137 ../functions/meta/usage.php:428
+#: ../functions/meta/usage.php:553
+msgid "Centered Minimal"
+msgstr ""
+
+#: ../functions/meta/usage.php:147 ../functions/meta/usage.php:438
+#: ../functions/meta/usage.php:563
+msgid "Title Background Image"
+msgstr ""
+
+#: ../functions/meta/usage.php:148 ../functions/meta/usage.php:439
+#: ../functions/meta/usage.php:564
+msgid "Select a custom header image for your main title."
+msgstr ""
+
+#: ../functions/meta/usage.php:153 ../functions/meta/usage.php:444
+#: ../functions/meta/usage.php:569
+msgid "Title Background Height"
+msgstr ""
+
+#: ../functions/meta/usage.php:154 ../functions/meta/usage.php:445
+#: ../functions/meta/usage.php:570
+msgid "Select your custom height for your title background. Default is 400px."
+msgstr ""
+
+#: ../functions/meta/usage.php:166 ../functions/meta/usage.php:258
+#: ../functions/meta/usage.php:295 ../functions/meta/usage.php:456
+msgid "Post Settings"
+msgstr ""
+
+#: ../functions/meta/usage.php:173 ../functions/meta/usage.php:338
+#: ../functions/meta/usage.php:463
+msgid "Select Layout"
+msgstr ""
+
+#: ../functions/meta/usage.php:239
+msgid "oEmbed URL"
+msgstr ""
+
+#: ../functions/meta/usage.php:240
+msgid ""
+"Enter a URL that is compatible with WP's built-in oEmbed feature. This "
+"setting is used for your video and audio post formats."
+msgstr ""
+
+#: ../functions/meta/usage.php:240 ../functions/meta/usage.php:247
+#: ../functions/widgets/widget-video.php:54
+msgid "Learn More"
+msgstr ""
+
+#: ../functions/meta/usage.php:246
+msgid "Self Hosted"
+msgstr ""
+
+#: ../functions/meta/usage.php:247
+msgid "Insert your self hosted video or audio url here."
+msgstr ""
+
+#: ../functions/meta/usage.php:266
+#: ../functions/post-types-taxonomies/register-testimonials.php:110
+msgid "Author"
+msgstr ""
+
+#: ../functions/meta/usage.php:267
+msgid "Enter the name of the author for this testimonial."
+msgstr ""
+
+#: ../functions/meta/usage.php:274
+msgid "Company"
+msgstr ""
+
+#: ../functions/meta/usage.php:275
+msgid "Enter the name of the company for this testimonial."
+msgstr ""
+
+#: ../functions/meta/usage.php:282
+msgid "Company URL"
+msgstr ""
+
+#: ../functions/meta/usage.php:283
+msgid "Enter the url for the company for this testimonial."
+msgstr ""
+
+#: ../functions/meta/usage.php:302
+#: ../functions/post-types-taxonomies/register-staff.php:147
+msgid "Position"
+msgstr ""
+
+#: ../functions/meta/usage.php:308
+msgid "Twitter URl"
+msgstr ""
+
+#: ../functions/meta/usage.php:314
+msgid "Facebook URl"
+msgstr ""
+
+#: ../functions/meta/usage.php:320
+msgid "Google Plus URl"
+msgstr ""
+
+#: ../functions/meta/usage.php:326
+msgid "LinkedIn URl"
+msgstr ""
+
+#: ../functions/meta/usage.php:332
+msgid "Dribbble URl"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:23
+msgid "Image Gallery"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:78
+#: ../functions/meta/gallery-metabox/gmb-admin.php:142
+msgid "Remove image"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:89
+msgid "Add/Edit Images"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:99
+msgid "Enable Lightbox for this gallery?"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:123
+msgid "Add Images to Gallery"
+msgstr ""
+
+#: ../functions/meta/gallery-metabox/gmb-admin.php:125
+msgid "Add to gallery"
+msgstr ""
+
+#: ../functions/meta/taxonomies/category-meta.php:42
+msgid "Grid Columns"
+msgstr ""
+
+#: ../functions/meta/taxonomies/category-meta.php:74
+msgid "Pagination"
+msgstr ""
+
+#: ../functions/meta/taxonomies/category-meta.php:79
+msgid "Inifinite Scroll"
+msgstr ""
+
+#: ../functions/meta/taxonomies/category-meta.php:80
+msgid "Next/Previous"
+msgstr ""
+
+#: ../functions/meta/taxonomies/category-meta.php:90
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../functions/meta/taxonomies/category-meta.php:101
+msgid "Posts Per Page"
+msgstr ""
+
+#: ../functions/meta/taxonomies/category-meta.php:115
+msgid "Image Width"
+msgstr ""
+
+#: ../functions/meta/taxonomies/category-meta.php:130
+msgid "Image Height"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/post-type-labels.php:26
+#: ../functions/post-types-taxonomies/post-type-labels.php:28
+#: ../functions/post-types-taxonomies/post-type-labels.php:29
+#: ../functions/post-types-taxonomies/post-type-labels.php:30
+#: ../functions/post-types-taxonomies/post-type-labels.php:59
+#: ../functions/post-types-taxonomies/post-type-labels.php:61
+#: ../functions/post-types-taxonomies/post-type-labels.php:62
+#: ../functions/post-types-taxonomies/post-type-labels.php:63
+#: ../functions/post-types-taxonomies/post-type-labels.php:92
+#: ../functions/post-types-taxonomies/post-type-labels.php:94
+#: ../functions/post-types-taxonomies/post-type-labels.php:95
+#: ../functions/post-types-taxonomies/post-type-labels.php:96
+msgid "Item"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/post-type-labels.php:27
+#: ../functions/post-types-taxonomies/post-type-labels.php:60
+#: ../functions/post-types-taxonomies/post-type-labels.php:93
+#: ../functions/post-types-taxonomies/register-portfolio.php:38
+#: ../functions/post-types-taxonomies/register-staff.php:38
+#: ../functions/post-types-taxonomies/register-testimonials.php:38
+msgid "Add New Item"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/post-type-labels.php:28
+#: ../functions/post-types-taxonomies/post-type-labels.php:30
+#: ../functions/post-types-taxonomies/post-type-labels.php:61
+#: ../functions/post-types-taxonomies/post-type-labels.php:63
+#: ../functions/post-types-taxonomies/post-type-labels.php:94
+#: ../functions/post-types-taxonomies/post-type-labels.php:96
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:30
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:70
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:112
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:153
+msgid "Add New"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/post-type-labels.php:29
+#: ../functions/post-types-taxonomies/post-type-labels.php:62
+#: ../functions/post-types-taxonomies/post-type-labels.php:95
+msgid "Edit New"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/post-type-labels.php:31
+#: ../functions/post-types-taxonomies/post-type-labels.php:64
+#: ../functions/post-types-taxonomies/post-type-labels.php:97
+#: ../functions/post-types-taxonomies/register-portfolio.php:42
+#: ../functions/post-types-taxonomies/register-staff.php:42
+#: ../functions/post-types-taxonomies/register-testimonials.php:42
+msgid "View Item"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/post-type-labels.php:33
+#: ../functions/post-types-taxonomies/post-type-labels.php:34
+#: ../functions/post-types-taxonomies/post-type-labels.php:66
+#: ../functions/post-types-taxonomies/post-type-labels.php:67
+#: ../functions/post-types-taxonomies/post-type-labels.php:99
+#: ../functions/post-types-taxonomies/post-type-labels.php:100
+#: ../functions/visual-composer/add-params.php:116
+#: ../functions/visual-composer/add-params.php:204
+msgid "No"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/post-type-labels.php:33
+#: ../functions/post-types-taxonomies/post-type-labels.php:66
+#: ../functions/post-types-taxonomies/post-type-labels.php:99
+msgid "items found"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/post-type-labels.php:34
+#: ../functions/post-types-taxonomies/post-type-labels.php:67
+#: ../functions/post-types-taxonomies/post-type-labels.php:100
+msgid "items found in the trash"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:37
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:39
+#: ../functions/post-types-taxonomies/register-portfolio.php:41
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:40
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:43
+msgid "Search Portfolio"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:44
+msgid "No portfolio items found"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:45
+msgid "No portfolio items found in trash"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:69
+#: ../functions/post-types-taxonomies/register-portfolio.php:83
+msgid "Portfolio Tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:70
+msgid "Portfolio Tag"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:71
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:72
+msgid "Popular Portfolio Tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:73
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:74
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:75
+msgid "Parent Portfolio Tag:"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:76
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:77
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:78
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:79
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:80
+msgid "Separate portfolio tags with commas"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:81
+msgid "Add or remove portfolio tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:82
+msgid "Choose from the most used portfolio tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:107
+#: ../functions/post-types-taxonomies/register-portfolio.php:121
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:108
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:109
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:110
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:111
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:112
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:113
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:114
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:115
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:116
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:117
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:118
+msgid "Separate portfolio categories with commas"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:119
+msgid "Add or remove portfolio categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:120
+msgid "Choose from the most used portfolio categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:147
+#: ../functions/post-types-taxonomies/register-staff.php:148
+#: ../functions/post-types-taxonomies/register-testimonials.php:111
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:22
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:23
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:26
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:27
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:28
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:29
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:30
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:104
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:105
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:108
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:109
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:110
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:111
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:112
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:145
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:146
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:149
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:150
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:151
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:152
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:153
+msgid "Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:148
+#: ../functions/post-types-taxonomies/register-staff.php:149
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:61
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:64
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:65
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:75
+msgid "Tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-portfolio.php:171
+#: ../functions/post-types-taxonomies/register-portfolio.php:181
+#: ../functions/post-types-taxonomies/register-portfolio.php:191
+#: ../functions/post-types-taxonomies/register-staff.php:164
+#: ../functions/post-types-taxonomies/register-staff.php:173
+#: ../functions/post-types-taxonomies/register-staff.php:182
+#: ../functions/post-types-taxonomies/register-testimonials.php:126
+#: ../functions/post-types-taxonomies/register-testimonials.php:136
+#: ../functions/visual-composer/add-params.php:266
+msgid "None"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-series.php:28
+msgid "Search Post Series"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-series.php:29
+msgid "Popular Post Series"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-series.php:30
+msgid "All Post Series"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-series.php:31
+msgid "Parent Post Series"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-series.php:32
+msgid "Parent Post Series:"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-series.php:33
+msgid "Edit Post Series"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-series.php:34
+msgid "Update Post Series"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-series.php:35
+msgid "Add New Post Series"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-series.php:36
+msgid "New Post Series Name"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-series.php:37
+msgid "Separate post series with commas"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-series.php:38
+msgid "Add or remove post series"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-post-series.php:39
+msgid "Choose from the most used post series"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:37
+msgid "Staff Item"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:39
+#: ../functions/post-types-taxonomies/register-staff.php:41
+msgid "Add New Staff Item"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:40
+msgid "Edit Staff Item"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:43
+msgid "Search Staff"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:44
+msgid "No staff items found"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:45
+msgid "No staff items found in trash"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:69
+#: ../functions/post-types-taxonomies/register-staff.php:83
+msgid "Staff Tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:70
+msgid "Staff Tag"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:71
+msgid "Search Staff Tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:72
+msgid "Popular Staff Tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:73
+msgid "All Staff Tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:74
+msgid "Parent Staff Tag"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:75
+msgid "Parent Staff Tag:"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:76
+msgid "Edit Staff Tag"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:77
+msgid "Update Staff Tag"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:78
+msgid "Add New Staff Tag"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:79
+msgid "New Staff Tag Name"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:80
+msgid "Separate staff tags with commas"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:81
+msgid "Add or remove staff tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:82
+msgid "Choose from the most used staff tags"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:107
+#: ../functions/post-types-taxonomies/register-staff.php:121
+msgid "Staff Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:108
+msgid "Staff Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:109
+msgid "Search Staff Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:110
+msgid "Popular Staff Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:111
+msgid "All Staff Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:112
+msgid "Parent Staff Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:113
+msgid "Parent Staff Category:"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:114
+msgid "Edit Staff Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:115
+msgid "Update Staff Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:116
+msgid "Add New Staff Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:117
+msgid "New Staff Category Name"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:118
+msgid "Separate staff categories with commas"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:119
+msgid "Add or remove staff categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-staff.php:120
+msgid "Choose from the most used staff categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:37
+msgid "Testimonials Item"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:39
+#: ../functions/post-types-taxonomies/register-testimonials.php:41
+msgid "Add New Testimonials Item"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:40
+msgid "Edit Testimonials Item"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:43
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:44
+msgid "No testimonials items found"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:45
+msgid "No testimonials items found in trash"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:70
+#: ../functions/post-types-taxonomies/register-testimonials.php:84
+msgid "Testimonials Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:71
+msgid "Testimonials Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:72
+msgid "Search Testimonials Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:73
+msgid "Popular Testimonials Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:74
+msgid "All Testimonials Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:75
+msgid "Parent Testimonials Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:76
+msgid "Parent Testimonials Category:"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:77
+msgid "Edit Testimonials Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:78
+msgid "Update Testimonials Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:79
+msgid "Add New Testimonials Category"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:80
+msgid "New Testimonials Category Name"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:81
+msgid "Separate testimonials categories with commas"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:82
+msgid "Add or remove testimonials categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/register-testimonials.php:83
+msgid "Choose from the most used testimonials categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:21
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:24
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:25
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:35
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:103
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:106
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:107
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:117
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:144
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:147
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:148
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:158
+msgid "Categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:24
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:64
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:106
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:147
+msgid "Popular"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:26
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:27
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:66
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:67
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:108
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:109
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:149
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:150
+msgid "Parent"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:29
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:69
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:111
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:152
+msgid "Update"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:31
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:113
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:154
+msgid "Category name"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:32
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:72
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:114
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:155
+msgid "Seperate"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:32
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:114
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:155
+msgid "categories with commas"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:33
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:73
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:115
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:156
+msgid "Add or remove"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:33
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:34
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:115
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:116
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:156
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:157
+msgid "categories"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:34
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:74
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:116
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:157
+msgid "Choose from the most used"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:62
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:63
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:66
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:67
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:68
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:69
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:70
+msgid "Tag"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:71
+msgid "Tag name"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:72
+msgid "tags with commas"
+msgstr ""
+
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:73
+#: ../functions/post-types-taxonomies/taxonomies-labels.php:74
+msgid "tags"
+msgstr ""
+
+#: ../functions/tinymce/mce-buttons.php:60
+msgid "Highlight"
+msgstr ""
+
+#: ../functions/tinymce/mce-buttons.php:61
+msgid "Thin Font"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:26
+msgid "CSS3 Image Hover"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:29
+msgid ""
+"Select your preferred image hover effect. Please note this will only work if "
+"the image links to a URL or a large version of itself. Please note these "
+"effects may not work in all browsers."
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:36
+msgid "Image Link Caption"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:39
+msgid "Use this field to add a caption to any single image with a link."
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:52
+msgid "Bottom Border"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:53
+msgid "Bottom Border With Color"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:54
+msgid "Line Through"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:55
+msgid "Double Line Through"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:56
+#: ../functions/visual-composer/add-params.php:268
+#: ../functions/visual-composer/add-params.php:316
+msgid "Dotted"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:57
+#: ../functions/visual-composer/add-params.php:317
+msgid "Dashed"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:58
+msgid "Top & Bottom Borders"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:59
+msgid "Graphical"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:60
+msgid "Outlined"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:67
+msgid "Font size (px or em)"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:75
+msgid "Font Weight"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:78
+msgid "Enter a custom font weight for your heading (300,400,600,700)."
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:84
+msgid "Bottom Margin"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:95
+msgid "The background color option is used for the background behind the text."
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:102
+msgid "Font Color"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:113
+#: ../functions/visual-composer/add-params.php:201
+msgid "Animation"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:117
+#: ../functions/visual-composer/add-params.php:205
+msgid "Top to bottom"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:118
+#: ../functions/visual-composer/add-params.php:206
+msgid "Bottom to top"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:119
+#: ../functions/visual-composer/add-params.php:207
+msgid "Left to right"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:120
+#: ../functions/visual-composer/add-params.php:208
+msgid "Right to left"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:121
+#: ../functions/visual-composer/add-params.php:209
+msgid "Appear from center"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:130
+msgid "Bordered"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:138
+msgid "Drop Shadow?"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:140
+#: ../functions/visual-composer/add-params.php:185
+msgid "Yes please."
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:153
+#: ../functions/visual-composer/add-params.php:170
+msgid "Alternative #1"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:154
+#: ../functions/visual-composer/add-params.php:171
+msgid "Alternative #2"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:183
+msgid "Center Row Content"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:186
+msgid ""
+"Use this option to center the inner content (Horizontally). Useful when "
+"using full-width pages."
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:192
+msgid "Minimum Height"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:195
+msgid "You can enter a minimum height for this row."
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:215
+msgid "Typography Style"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:218
+msgid "Dark Text"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:219
+msgid "White Text"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:237
+msgid "Select image from media library."
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:246
+msgid "Fixed"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:247
+msgid "Parallax"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:255
+msgid "Enable Self Hosted Video Background?"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:257
+msgid ""
+"Check this box to enable the options for a self hosted video background."
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:258
+msgid "Yes, please"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:263
+msgid "Video Background Overlay"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:267
+msgid "Dark"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:269
+msgid "Diagonal Lines"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:276
+msgid "Video URL: MP4 URL"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:279
+msgid ""
+"Enter the URL to a SELF hosted video .mp4 file to create a video background "
+"for this row."
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:285
+msgid "Video URL: OGV URL"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:288
+#: ../functions/visual-composer/add-params.php:297
+msgid ""
+"Enter the URL to a SELF hosted video .webm file to create a video background "
+"for this row."
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:294
+msgid "Video URL: WEBM URL"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:304
+msgid "Border Color"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:312
+msgid "Border Style"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:315
+msgid "Solid"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:324
+msgid "Border Width"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:327
+msgid "Your border width. Example: 1px 1px 1px 1px."
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:333
+msgid "Margin Top"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:341
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:349
+msgid "Padding Top"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:357
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:365
+msgid "Padding Left"
+msgstr ""
+
+#: ../functions/visual-composer/add-params.php:373
+msgid "Padding Right"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:22
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:24
+#: ../functions/widgets/widget-areas.php:79
+msgid ""
+"Widgets in this area are used in the default sidebar. This sidebar will be "
+"used for your standard blog posts."
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:35
+msgid "Pages Sidebar"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:37
+msgid "Widgets in this area are used for your pages sidebar."
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:49
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:51
+msgid "Widgets in this area are used for your Portfolio post type sidebar."
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:63
+msgid "Staff Sidebar"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:65
+msgid "Widgets in this area are used for your Staff post type sidebar."
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:93
+msgid "Footer 1"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:95
+msgid "Widgets in this area are used in the first footer column"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:104
+msgid "Footer 2"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:106
+msgid "Widgets in this area are used in the second footer column"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:115
+msgid "Footer 3"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:117
+msgid "Widgets in this area are used in the third footer column"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:126
+msgid "Footer 4"
+msgstr ""
+
+#: ../functions/widgets/widget-areas.php:128
+msgid "Widgets in this area are used in the fourth footer column"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:14
+msgid "Pulls in images from your Flickr account."
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:16
+msgid "Flickr Stream"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:67
+#: ../functions/widgets/widget-posts-thumbnails.php:67
+#: ../functions/widgets/widget-recent-posts-thumb-grid.php:74
+#: ../functions/widgets/widget-social.php:115
+#: ../functions/widgets/widget-video.php:46
+msgid "Title:"
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:72
+msgid "Flickr ID "
+msgstr ""
+
+#: ../functions/widgets/widget-flickr.php:77
+msgid "Number:"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:6
+msgid "Recent Posts With Thumbnails"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:6
+msgid ""
+"Shows a listing of your recent or random posts with their thumbnail for any "
+"chosen post type."
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:55
+#: ../functions/widgets/widget-recent-posts-thumb-grid.php:62
+msgid "Recent Posts"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:72
+#: ../functions/widgets/widget-recent-posts-thumb-grid.php:79
+msgid "Post Type?"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:75
+#: ../functions/widgets/widget-recent-posts-thumb-grid.php:82
+msgid "Post"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:90
+#: ../functions/widgets/widget-recent-posts-thumb-grid.php:97
+msgid "Random or Recent?"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:93
+#: ../functions/widgets/widget-recent-posts-thumb-grid.php:100
+msgid "Recent"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:94
+#: ../functions/widgets/widget-recent-posts-thumb-grid.php:101
+msgid "Random"
+msgstr ""
+
+#: ../functions/widgets/widget-posts-thumbnails.php:99
+#: ../functions/widgets/widget-recent-posts-thumb-grid.php:106
+msgid "Number to Show:"
+msgstr ""
+
+#: ../functions/widgets/widget-recent-posts-thumb-grid.php:7
+msgid "Recent Posts Thumbnail Grid"
+msgstr ""
+
+#: ../functions/widgets/widget-recent-posts-thumb-grid.php:7
+msgid "Displays a grid of featured images for your post type of choice."
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:7
+msgid "Social Widget"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:48
+msgid "Follow Us"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:120
+msgid "Link Target:"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:123
+msgid "Blank"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:124
+msgid "Self"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:129
+msgid "Size:"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:131
+msgid "Size in pixels. Icon images are 36px."
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:135
+msgid "Social Links"
+msgstr ""
+
+#: ../functions/widgets/widget-social.php:136
+msgid "Enter the full URL to your social profile"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:16
+msgid "Embed a video using the WordPress built-in oEmbed function."
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:21
+msgid "Video"
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:52
+msgid "Video URL "
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:54
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: ../functions/widgets/widget-video.php:85
+msgid "You forgot to enter a video URL."
+msgstr ""
+
+#: ../functions/woocommerce/woo-menucart.php:46
+msgid "Your Cart"
+msgstr ""
+
+#: ../vc_templates/vc_single_image.php:20
+msgid "This is image placeholder, edit your page to replace it."
+msgstr ""
+
+#: ../vc_templates/vc_tabs.php:45
+msgid "Previous slide"
+msgstr ""
+
+#: ../vc_templates/vc_tabs.php:45
+msgid "Next slide"
+msgstr ""

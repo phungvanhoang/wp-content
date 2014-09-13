@@ -1,0 +1,1733 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Visual Composer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-12-23 21:20-0800\n"
+"PO-Revision-Date: 2013-12-23 21:20-0800\n"
+"Last-Translator: Michael M <hello@wpbakery.com>\n"
+"Language-Team: WPBakery\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: wp-updates-plugin.php:76
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+
+#: wp-updates-plugin.php:80
+msgid "An unknown error occurred"
+msgstr ""
+
+#: includes/functions.php:42 includes/functions.php:72
+msgid "View Post"
+msgstr ""
+
+#: includes/functions.php:42 includes/functions.php:72
+msgid "view post"
+msgstr ""
+
+#: includes/functions.php:84 includes/functions.php:96
+#: shortcodes/button.php:163 shortcodes/callout.php:150
+#: shortcodes/icon_box.php:335 shortcodes/image_carousel.php:309
+#: shortcodes/image_flexslider.php:198 shortcodes/image_grid.php:234
+#: shortcodes/milestone.php:175 shortcodes/portfolio_carousel.php:378
+#: shortcodes/pricing.php:136 shortcodes/staff_carousel.php:379
+#: shortcodes/teaser.php:168 shortcodes/woocommerce_carousel.php:356
+msgid "None"
+msgstr ""
+
+#: includes/functions.php:85
+msgid "Grayscale"
+msgstr ""
+
+#: includes/functions.php:97
+msgid "Grow"
+msgstr ""
+
+#: includes/functions.php:98
+msgid "Shrink"
+msgstr ""
+
+#: includes/functions.php:99
+msgid "Side Pan"
+msgstr ""
+
+#: includes/functions.php:100
+msgid "Vertical Pan"
+msgstr ""
+
+#: includes/functions.php:101
+msgid "Tilt"
+msgstr ""
+
+#: includes/functions.php:102
+msgid "Normal - Blurr"
+msgstr ""
+
+#: includes/functions.php:103
+msgid "Blurr - Normal"
+msgstr ""
+
+#: includes/functions.php:104
+msgid "Sepia"
+msgstr ""
+
+#: includes/functions.php:105
+msgid "Fade Out"
+msgstr ""
+
+#: includes/functions.php:106
+msgid "Fade In"
+msgstr ""
+
+#: shortcodes/blog_grid.php:28 shortcodes/portfolio_grid.php:27
+#: shortcodes/recent_news.php:20 shortcodes/staff_grid.php:27
+#: shortcodes/testimonials_grid.php:21
+msgid "read more"
+msgstr ""
+
+#: shortcodes/blog_grid.php:116 shortcodes/portfolio_grid.php:122
+#: shortcodes/staff_grid.php:119 shortcodes/testimonials_grid.php:102
+msgid "All"
+msgstr ""
+
+#: shortcodes/blog_grid.php:269
+msgid "Blog Grid"
+msgstr ""
+
+#: shortcodes/blog_grid.php:272 shortcodes/recent_news.php:149
+msgid "Blog"
+msgstr ""
+
+#: shortcodes/blog_grid.php:278 shortcodes/image_carousel.php:218
+#: shortcodes/image_flexslider.php:187 shortcodes/image_grid.php:206
+#: shortcodes/portfolio_carousel.php:250 shortcodes/portfolio_grid.php:297
+#: shortcodes/recent_news.php:157 shortcodes/staff_carousel.php:252
+#: shortcodes/staff_grid.php:300 shortcodes/testimonials_grid.php:264
+#: shortcodes/woocommerce_carousel.php:230
+msgid "Unique Id"
+msgstr ""
+
+#: shortcodes/blog_grid.php:281 shortcodes/image_carousel.php:221
+#: shortcodes/image_flexslider.php:190 shortcodes/image_grid.php:209
+#: shortcodes/portfolio_carousel.php:253 shortcodes/portfolio_grid.php:300
+#: shortcodes/recent_news.php:160 shortcodes/staff_carousel.php:255
+#: shortcodes/staff_grid.php:303 shortcodes/testimonials_grid.php:267
+#: shortcodes/woocommerce_carousel.php:233
+msgid "You can enter a unique ID here for styling purposes."
+msgstr ""
+
+#: shortcodes/blog_grid.php:286 shortcodes/portfolio_carousel.php:268
+#: shortcodes/portfolio_grid.php:305 shortcodes/recent_news.php:185
+#: shortcodes/staff_carousel.php:270 shortcodes/staff_grid.php:308
+#: shortcodes/testimonials_grid.php:272 shortcodes/testimonials_slider.php:226
+#: shortcodes/woocommerce_carousel.php:248
+msgid "Category"
+msgstr ""
+
+#: shortcodes/blog_grid.php:290 shortcodes/portfolio_carousel.php:272
+#: shortcodes/portfolio_grid.php:309 shortcodes/staff_carousel.php:274
+#: shortcodes/staff_grid.php:312 shortcodes/testimonials_grid.php:276
+#: shortcodes/woocommerce_carousel.php:252
+msgid "Enter a category slug to limit your posts."
+msgstr ""
+
+#: shortcodes/blog_grid.php:295 shortcodes/portfolio_grid.php:326
+#: shortcodes/staff_grid.php:317 shortcodes/testimonials_grid.php:281
+msgid "Category Filter"
+msgstr ""
+
+#: shortcodes/blog_grid.php:298 shortcodes/blog_grid.php:350
+#: shortcodes/blog_grid.php:406 shortcodes/blog_grid.php:416
+#: shortcodes/blog_grid.php:426 shortcodes/blog_grid.php:436
+#: shortcodes/blog_grid.php:453 shortcodes/image_carousel.php:279
+#: shortcodes/image_carousel.php:299 shortcodes/image_flexslider.php:252
+#: shortcodes/image_flexslider.php:272 shortcodes/image_flexslider.php:283
+#: shortcodes/image_flexslider.php:292 shortcodes/image_flexslider.php:302
+#: shortcodes/portfolio_carousel.php:346 shortcodes/portfolio_carousel.php:366
+#: shortcodes/portfolio_carousel.php:421 shortcodes/portfolio_carousel.php:431
+#: shortcodes/portfolio_grid.php:329 shortcodes/portfolio_grid.php:369
+#: shortcodes/portfolio_grid.php:440 shortcodes/portfolio_grid.php:450
+#: shortcodes/portfolio_grid.php:460 shortcodes/portfolio_grid.php:471
+#: shortcodes/recent_news.php:238 shortcodes/skillbar.php:95
+#: shortcodes/staff_carousel.php:348 shortcodes/staff_carousel.php:367
+#: shortcodes/staff_carousel.php:414 shortcodes/staff_carousel.php:424
+#: shortcodes/staff_carousel.php:434 shortcodes/staff_grid.php:320
+#: shortcodes/staff_grid.php:371 shortcodes/staff_grid.php:443
+#: shortcodes/staff_grid.php:453 shortcodes/staff_grid.php:463
+#: shortcodes/staff_grid.php:482 shortcodes/staff_grid.php:500
+#: shortcodes/testimonials_grid.php:284 shortcodes/testimonials_grid.php:347
+#: shortcodes/woocommerce_carousel.php:326
+#: shortcodes/woocommerce_carousel.php:344
+#: shortcodes/woocommerce_carousel.php:366
+#: shortcodes/woocommerce_carousel.php:394
+msgid "True"
+msgstr ""
+
+#: shortcodes/blog_grid.php:299 shortcodes/blog_grid.php:351
+#: shortcodes/blog_grid.php:405 shortcodes/blog_grid.php:417
+#: shortcodes/blog_grid.php:427 shortcodes/blog_grid.php:437
+#: shortcodes/blog_grid.php:454 shortcodes/image_carousel.php:280
+#: shortcodes/image_carousel.php:300 shortcodes/image_flexslider.php:253
+#: shortcodes/image_flexslider.php:273 shortcodes/image_flexslider.php:282
+#: shortcodes/image_flexslider.php:293 shortcodes/image_flexslider.php:303
+#: shortcodes/portfolio_carousel.php:347 shortcodes/portfolio_carousel.php:367
+#: shortcodes/portfolio_carousel.php:422 shortcodes/portfolio_carousel.php:432
+#: shortcodes/portfolio_grid.php:330 shortcodes/portfolio_grid.php:370
+#: shortcodes/portfolio_grid.php:439 shortcodes/portfolio_grid.php:451
+#: shortcodes/portfolio_grid.php:461 shortcodes/portfolio_grid.php:470
+#: shortcodes/recent_news.php:239 shortcodes/skillbar.php:96
+#: shortcodes/staff_carousel.php:349 shortcodes/staff_carousel.php:368
+#: shortcodes/staff_carousel.php:415 shortcodes/staff_carousel.php:425
+#: shortcodes/staff_carousel.php:435 shortcodes/staff_grid.php:321
+#: shortcodes/staff_grid.php:372 shortcodes/staff_grid.php:442
+#: shortcodes/staff_grid.php:454 shortcodes/staff_grid.php:464
+#: shortcodes/staff_grid.php:481 shortcodes/staff_grid.php:501
+#: shortcodes/testimonials_grid.php:285 shortcodes/testimonials_grid.php:346
+#: shortcodes/woocommerce_carousel.php:327
+#: shortcodes/woocommerce_carousel.php:345
+#: shortcodes/woocommerce_carousel.php:365
+#: shortcodes/woocommerce_carousel.php:395
+msgid "False"
+msgstr ""
+
+#: shortcodes/blog_grid.php:301 shortcodes/portfolio_grid.php:332
+#: shortcodes/staff_grid.php:323
+msgid "Do you wish to display an animated category filter?"
+msgstr ""
+
+#: shortcodes/blog_grid.php:306 shortcodes/image_grid.php:221
+#: shortcodes/portfolio_grid.php:314 shortcodes/staff_grid.php:328
+#: shortcodes/testimonials_grid.php:291
+msgid "Grid Style"
+msgstr ""
+
+#: shortcodes/blog_grid.php:309 shortcodes/portfolio_grid.php:317
+#: shortcodes/staff_grid.php:331 shortcodes/testimonials_grid.php:294
+msgid "Fit Columns"
+msgstr ""
+
+#: shortcodes/blog_grid.php:310 shortcodes/staff_grid.php:332
+#: shortcodes/testimonials_grid.php:295
+msgid "Masonry"
+msgstr ""
+
+#: shortcodes/blog_grid.php:312 shortcodes/staff_grid.php:334
+#: shortcodes/testimonials_grid.php:297
+msgid ""
+"Important: If the category filter is enabled above the grid will always be "
+"masonry style."
+msgstr ""
+
+#: shortcodes/blog_grid.php:317 shortcodes/image_grid.php:214
+#: shortcodes/portfolio_grid.php:337 shortcodes/staff_grid.php:339
+#: shortcodes/testimonials_grid.php:302
+msgid "Columns"
+msgstr ""
+
+#: shortcodes/blog_grid.php:325 shortcodes/portfolio_grid.php:344
+#: shortcodes/staff_grid.php:346 shortcodes/testimonials_grid.php:309
+msgid "Posts Per Page"
+msgstr ""
+
+#: shortcodes/blog_grid.php:328 shortcodes/portfolio_grid.php:347
+#: shortcodes/staff_grid.php:349 shortcodes/testimonials_grid.php:312
+msgid "How many items do you wish to show?"
+msgstr ""
+
+#: shortcodes/blog_grid.php:333 shortcodes/image_flexslider.php:231
+#: shortcodes/portfolio_carousel.php:400 shortcodes/portfolio_grid.php:352
+#: shortcodes/staff_carousel.php:393 shortcodes/staff_grid.php:354
+#: shortcodes/woocommerce_carousel.php:373
+msgid "Image Width"
+msgstr ""
+
+#: shortcodes/blog_grid.php:340 shortcodes/image_flexslider.php:240
+#: shortcodes/portfolio_carousel.php:409 shortcodes/portfolio_grid.php:359
+#: shortcodes/staff_carousel.php:402 shortcodes/staff_grid.php:361
+#: shortcodes/woocommerce_carousel.php:382
+msgid "Image Height"
+msgstr ""
+
+#: shortcodes/blog_grid.php:347 shortcodes/portfolio_grid.php:366
+#: shortcodes/staff_grid.php:368
+msgid "Image Hard Crop"
+msgstr ""
+
+#: shortcodes/blog_grid.php:357 shortcodes/image_carousel.php:376
+#: shortcodes/image_grid.php:293 shortcodes/portfolio_grid.php:376
+#: shortcodes/staff_grid.php:378
+msgid "Image Filter"
+msgstr ""
+
+#: shortcodes/blog_grid.php:364 shortcodes/portfolio_carousel.php:373
+#: shortcodes/portfolio_grid.php:391 shortcodes/staff_carousel.php:374
+#: shortcodes/staff_grid.php:393
+msgid "Image Links To"
+msgstr ""
+
+#: shortcodes/blog_grid.php:367 shortcodes/portfolio_carousel.php:376
+#: shortcodes/portfolio_grid.php:394 shortcodes/staff_carousel.php:377
+#: shortcodes/staff_grid.php:396 shortcodes/woocommerce_carousel.php:354
+msgid "Post"
+msgstr ""
+
+#: shortcodes/blog_grid.php:368 shortcodes/image_carousel.php:310
+#: shortcodes/image_flexslider.php:199 shortcodes/image_grid.php:235
+#: shortcodes/portfolio_carousel.php:377 shortcodes/portfolio_grid.php:395
+#: shortcodes/staff_carousel.php:378 shortcodes/staff_grid.php:397
+#: shortcodes/woocommerce_carousel.php:355
+msgid "Lightbox"
+msgstr ""
+
+#: shortcodes/blog_grid.php:369 shortcodes/portfolio_grid.php:396
+#: shortcodes/staff_grid.php:398
+msgid "Nowhere"
+msgstr ""
+
+#: shortcodes/blog_grid.php:376 shortcodes/portfolio_carousel.php:285
+#: shortcodes/portfolio_grid.php:410 shortcodes/recent_news.php:201
+#: shortcodes/staff_carousel.php:287 shortcodes/staff_grid.php:413
+#: shortcodes/testimonials_grid.php:317 shortcodes/testimonials_slider.php:242
+#: shortcodes/woocommerce_carousel.php:265
+msgid "Order"
+msgstr ""
+
+#: shortcodes/blog_grid.php:378 shortcodes/portfolio_carousel.php:287
+#: shortcodes/portfolio_grid.php:412 shortcodes/recent_news.php:203
+#: shortcodes/staff_carousel.php:289 shortcodes/staff_grid.php:415
+#: shortcodes/testimonials_grid.php:319 shortcodes/testimonials_slider.php:244
+#: shortcodes/woocommerce_carousel.php:267
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: shortcodes/blog_grid.php:380 shortcodes/portfolio_carousel.php:289
+#: shortcodes/portfolio_grid.php:414 shortcodes/recent_news.php:205
+#: shortcodes/staff_carousel.php:291 shortcodes/staff_grid.php:417
+#: shortcodes/testimonials_grid.php:321 shortcodes/testimonials_slider.php:246
+#: shortcodes/woocommerce_carousel.php:269
+msgid "DESC"
+msgstr ""
+
+#: shortcodes/blog_grid.php:381 shortcodes/portfolio_carousel.php:290
+#: shortcodes/portfolio_grid.php:415 shortcodes/recent_news.php:206
+#: shortcodes/staff_carousel.php:292 shortcodes/staff_grid.php:418
+#: shortcodes/testimonials_grid.php:322 shortcodes/testimonials_slider.php:247
+#: shortcodes/woocommerce_carousel.php:270
+msgid "ASC"
+msgstr ""
+
+#: shortcodes/blog_grid.php:387 shortcodes/portfolio_carousel.php:296
+#: shortcodes/portfolio_grid.php:421 shortcodes/recent_news.php:212
+#: shortcodes/staff_carousel.php:298 shortcodes/staff_grid.php:424
+#: shortcodes/testimonials_grid.php:328 shortcodes/testimonials_slider.php:253
+#: shortcodes/woocommerce_carousel.php:276
+msgid "Order By"
+msgstr ""
+
+#: shortcodes/blog_grid.php:389 shortcodes/portfolio_carousel.php:298
+#: shortcodes/portfolio_grid.php:423 shortcodes/recent_news.php:214
+#: shortcodes/staff_carousel.php:300 shortcodes/staff_grid.php:426
+#: shortcodes/testimonials_grid.php:330 shortcodes/testimonials_slider.php:255
+#: shortcodes/woocommerce_carousel.php:278
+#, php-format
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: shortcodes/blog_grid.php:391 shortcodes/blog_grid.php:423
+#: shortcodes/portfolio_carousel.php:300 shortcodes/portfolio_grid.php:425
+#: shortcodes/recent_news.php:216 shortcodes/staff_carousel.php:302
+#: shortcodes/staff_grid.php:428 shortcodes/testimonials_grid.php:332
+#: shortcodes/testimonials_slider.php:257
+#: shortcodes/woocommerce_carousel.php:280
+msgid "Date"
+msgstr ""
+
+#: shortcodes/blog_grid.php:392 shortcodes/portfolio_carousel.php:301
+#: shortcodes/portfolio_grid.php:426 shortcodes/recent_news.php:217
+#: shortcodes/staff_carousel.php:303 shortcodes/staff_grid.php:429
+#: shortcodes/testimonials_grid.php:333 shortcodes/testimonials_slider.php:258
+#: shortcodes/woocommerce_carousel.php:281
+msgid "Name"
+msgstr ""
+
+#: shortcodes/blog_grid.php:393 shortcodes/portfolio_carousel.php:302
+#: shortcodes/portfolio_grid.php:427 shortcodes/recent_news.php:218
+#: shortcodes/staff_carousel.php:304 shortcodes/staff_grid.php:430
+#: shortcodes/testimonials_grid.php:334 shortcodes/testimonials_slider.php:259
+#: shortcodes/woocommerce_carousel.php:282
+msgid "Modified"
+msgstr ""
+
+#: shortcodes/blog_grid.php:394 shortcodes/portfolio_carousel.php:303
+#: shortcodes/portfolio_grid.php:428 shortcodes/recent_news.php:219
+#: shortcodes/staff_carousel.php:305 shortcodes/staff_grid.php:431
+#: shortcodes/testimonials_grid.php:335 shortcodes/testimonials_slider.php:260
+#: shortcodes/woocommerce_carousel.php:283
+msgid "Author"
+msgstr ""
+
+#: shortcodes/blog_grid.php:395 shortcodes/portfolio_carousel.php:304
+#: shortcodes/portfolio_grid.php:429 shortcodes/recent_news.php:220
+#: shortcodes/staff_carousel.php:306 shortcodes/staff_grid.php:432
+#: shortcodes/testimonials_grid.php:336 shortcodes/testimonials_slider.php:261
+#: shortcodes/woocommerce_carousel.php:284
+msgid "Random"
+msgstr ""
+
+#: shortcodes/blog_grid.php:396 shortcodes/portfolio_carousel.php:305
+#: shortcodes/portfolio_grid.php:430 shortcodes/recent_news.php:221
+#: shortcodes/staff_carousel.php:307 shortcodes/staff_grid.php:433
+#: shortcodes/testimonials_grid.php:337 shortcodes/testimonials_slider.php:262
+#: shortcodes/woocommerce_carousel.php:285
+msgid "Comment Count"
+msgstr ""
+
+#: shortcodes/blog_grid.php:402 shortcodes/portfolio_grid.php:436
+#: shortcodes/staff_grid.php:439 shortcodes/testimonials_grid.php:343
+msgid "Pagination"
+msgstr ""
+
+#: shortcodes/blog_grid.php:408 shortcodes/portfolio_grid.php:442
+#: shortcodes/staff_grid.php:445 shortcodes/testimonials_grid.php:349
+msgid ""
+"Important: Pagination will not work on your homepage because of how "
+"WordPress works"
+msgstr ""
+
+#: shortcodes/blog_grid.php:413 shortcodes/icon_box.php:263
+#: shortcodes/portfolio_grid.php:447 shortcodes/skillbar.php:54
+#: shortcodes/staff_grid.php:450 shortcodes/teaser.php:128
+msgid "Title"
+msgstr ""
+
+#: shortcodes/blog_grid.php:433 shortcodes/portfolio_grid.php:457
+#: shortcodes/staff_grid.php:460
+msgid "Excerpt"
+msgstr ""
+
+#: shortcodes/blog_grid.php:443 shortcodes/portfolio_carousel.php:438
+#: shortcodes/portfolio_grid.php:486 shortcodes/recent_news.php:227
+#: shortcodes/staff_carousel.php:441 shortcodes/staff_grid.php:470
+msgid "Excerpt Length"
+msgstr ""
+
+#: shortcodes/blog_grid.php:450 shortcodes/portfolio_grid.php:467
+#: shortcodes/staff_grid.php:478
+msgid "Read More"
+msgstr ""
+
+#: shortcodes/bullets.php:18
+msgid "Bullets"
+msgstr ""
+
+#: shortcodes/bullets.php:21 shortcodes/list_item.php:65
+#: shortcodes/skillbar.php:46
+msgid "Lists"
+msgstr ""
+
+#: shortcodes/bullets.php:29 shortcodes/divider.php:86
+#: shortcodes/image_carousel.php:234 shortcodes/portfolio_carousel.php:258
+#: shortcodes/staff_carousel.php:260 shortcodes/teaser.php:93
+#: shortcodes/woocommerce_carousel.php:238
+msgid "Style"
+msgstr ""
+
+#: shortcodes/bullets.php:33
+msgid "Check"
+msgstr ""
+
+#: shortcodes/bullets.php:34 shortcodes/button.php:114
+#: shortcodes/callout.php:112
+msgid "Blue"
+msgstr ""
+
+#: shortcodes/bullets.php:35
+msgid "Gray"
+msgstr ""
+
+#: shortcodes/bullets.php:36 shortcodes/button.php:121
+msgid "Purple"
+msgstr ""
+
+#: shortcodes/bullets.php:37 shortcodes/button.php:122
+#: shortcodes/callout.php:119
+msgid "Red"
+msgstr ""
+
+#: shortcodes/bullets.php:39
+msgid "Select your bullet style."
+msgstr ""
+
+#: shortcodes/bullets.php:43
+msgid "List"
+msgstr ""
+
+#: shortcodes/bullets.php:46 shortcodes/list_item.php:146
+msgid "Insert your unordered list here."
+msgstr ""
+
+#: shortcodes/button.php:8 shortcodes/callout.php:13
+msgid "Visit Site"
+msgstr ""
+
+#: shortcodes/button.php:59
+msgid "Button"
+msgstr ""
+
+#: shortcodes/button.php:62 shortcodes/callout.php:58
+#: shortcodes/milestone.php:77 shortcodes/pricing.php:54
+msgid "Business"
+msgstr ""
+
+#: shortcodes/button.php:70 shortcodes/icon_box.php:313
+#: shortcodes/milestone.php:153 shortcodes/teaser.php:147
+msgid "URL"
+msgstr ""
+
+#: shortcodes/button.php:74
+msgid "Button URL"
+msgstr ""
+
+#: shortcodes/button.php:79 shortcodes/icon_box.php:196
+#: shortcodes/list_item.php:143 shortcodes/login_form.php:59
+#: shortcodes/newsletter_form.php:49 shortcodes/teaser.php:65
+#: shortcodes/teaser.php:74
+msgid "Content"
+msgstr ""
+
+#: shortcodes/button.php:82
+msgid "Button\\'s Text"
+msgstr ""
+
+#: shortcodes/button.php:87
+msgid "Link Title"
+msgstr ""
+
+#: shortcodes/button.php:90
+msgid "Add A Link Title"
+msgstr ""
+
+#: shortcodes/button.php:94 shortcodes/callout.php:76 shortcodes/icon.php:70
+#: shortcodes/icon_box.php:181 shortcodes/list_item.php:81
+#: shortcodes/recent_news.php:164 shortcodes/skillbar.php:62
+#: shortcodes/teaser.php:104 shortcodes/testimonials_slider.php:177
+msgid "CSS Animation"
+msgstr ""
+
+#: shortcodes/button.php:97 shortcodes/callout.php:79 shortcodes/icon.php:74
+#: shortcodes/icon_box.php:184 shortcodes/list_item.php:84
+#: shortcodes/pricing.php:79 shortcodes/recent_news.php:167
+#: shortcodes/skillbar.php:65 shortcodes/teaser.php:107
+#: shortcodes/testimonials_slider.php:180
+msgid "No"
+msgstr ""
+
+#: shortcodes/button.php:98 shortcodes/callout.php:80 shortcodes/icon.php:75
+#: shortcodes/icon_box.php:185 shortcodes/list_item.php:85
+#: shortcodes/recent_news.php:168 shortcodes/skillbar.php:66
+#: shortcodes/teaser.php:108 shortcodes/testimonials_slider.php:181
+msgid "Top to bottom"
+msgstr ""
+
+#: shortcodes/button.php:99 shortcodes/callout.php:81 shortcodes/icon.php:76
+#: shortcodes/icon_box.php:186 shortcodes/list_item.php:86
+#: shortcodes/recent_news.php:169 shortcodes/skillbar.php:67
+#: shortcodes/teaser.php:109 shortcodes/testimonials_slider.php:182
+msgid "Bottom to top"
+msgstr ""
+
+#: shortcodes/button.php:100 shortcodes/callout.php:82 shortcodes/icon.php:77
+#: shortcodes/icon_box.php:187 shortcodes/list_item.php:87
+#: shortcodes/recent_news.php:170 shortcodes/skillbar.php:68
+#: shortcodes/teaser.php:110 shortcodes/testimonials_slider.php:183
+msgid "Left to right"
+msgstr ""
+
+#: shortcodes/button.php:101 shortcodes/callout.php:83 shortcodes/icon.php:78
+#: shortcodes/icon_box.php:188 shortcodes/list_item.php:88
+#: shortcodes/recent_news.php:171 shortcodes/skillbar.php:69
+#: shortcodes/teaser.php:111 shortcodes/testimonials_slider.php:184
+msgid "Right to left"
+msgstr ""
+
+#: shortcodes/button.php:102 shortcodes/callout.php:84 shortcodes/icon.php:79
+#: shortcodes/icon_box.php:189 shortcodes/list_item.php:89
+#: shortcodes/recent_news.php:172 shortcodes/skillbar.php:70
+#: shortcodes/teaser.php:112
+msgid "Appear from center"
+msgstr ""
+
+#: shortcodes/button.php:103 shortcodes/callout.php:85 shortcodes/icon.php:80
+#: shortcodes/icon_box.php:190 shortcodes/list_item.php:90
+#: shortcodes/recent_news.php:173 shortcodes/skillbar.php:71
+#: shortcodes/teaser.php:113 shortcodes/testimonials_slider.php:185
+msgid ""
+"Select animation type if you want this element to be animated when it enters "
+"into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: shortcodes/button.php:108
+msgid "Button Color"
+msgstr ""
+
+#: shortcodes/button.php:111
+msgid "Select a button color."
+msgstr ""
+
+#: shortcodes/button.php:113 shortcodes/callout.php:111
+msgid "Black"
+msgstr ""
+
+#: shortcodes/button.php:115 shortcodes/callout.php:113
+msgid "Brown"
+msgstr ""
+
+#: shortcodes/button.php:116 shortcodes/callout.php:114
+msgid "Grey"
+msgstr ""
+
+#: shortcodes/button.php:117 shortcodes/callout.php:115
+msgid "Green"
+msgstr ""
+
+#: shortcodes/button.php:118 shortcodes/callout.php:116
+msgid "Gold"
+msgstr ""
+
+#: shortcodes/button.php:119 shortcodes/callout.php:117
+msgid "Orange"
+msgstr ""
+
+#: shortcodes/button.php:120 shortcodes/callout.php:118
+msgid "Pink"
+msgstr ""
+
+#: shortcodes/button.php:123 shortcodes/callout.php:120
+msgid "Rosy"
+msgstr ""
+
+#: shortcodes/button.php:124 shortcodes/callout.php:121
+msgid "Teal"
+msgstr ""
+
+#: shortcodes/button.php:130
+msgid "Button Size"
+msgstr ""
+
+#: shortcodes/button.php:132
+msgid "Select a button size."
+msgstr ""
+
+#: shortcodes/button.php:134 shortcodes/icon.php:93
+msgid "Small"
+msgstr ""
+
+#: shortcodes/button.php:135
+msgid "Medium"
+msgstr ""
+
+#: shortcodes/button.php:136 shortcodes/icon.php:91
+msgid "Large"
+msgstr ""
+
+#: shortcodes/button.php:142 shortcodes/button.php:145 shortcodes/icon.php:138
+msgid "Border Radius"
+msgstr ""
+
+#: shortcodes/button.php:150
+msgid "Link Target"
+msgstr ""
+
+#: shortcodes/button.php:153 shortcodes/callout.php:139
+#: shortcodes/icon_box.php:324 shortcodes/milestone.php:164
+#: shortcodes/pricing.php:126 shortcodes/teaser.php:157
+msgid "Self"
+msgstr ""
+
+#: shortcodes/button.php:154 shortcodes/callout.php:140
+#: shortcodes/icon_box.php:325 shortcodes/milestone.php:165
+#: shortcodes/pricing.php:127 shortcodes/teaser.php:158
+msgid "Blank"
+msgstr ""
+
+#: shortcodes/button.php:160
+msgid "Link Rel"
+msgstr ""
+
+#: shortcodes/button.php:164 shortcodes/callout.php:151
+#: shortcodes/icon_box.php:336 shortcodes/milestone.php:176
+#: shortcodes/pricing.php:137 shortcodes/teaser.php:169
+msgid "Nofollow"
+msgstr ""
+
+#: shortcodes/button.php:170
+msgid "Button Align"
+msgstr ""
+
+#: shortcodes/button.php:173 shortcodes/icon.php:106
+#: shortcodes/list_item.php:133 shortcodes/teaser.php:121
+msgid "Left"
+msgstr ""
+
+#: shortcodes/button.php:174 shortcodes/icon.php:107
+#: shortcodes/list_item.php:135 shortcodes/teaser.php:122
+msgid "Right"
+msgstr ""
+
+#: shortcodes/button.php:175 shortcodes/icon.php:105
+#: shortcodes/list_item.php:134 shortcodes/teaser.php:120
+msgid "Center"
+msgstr ""
+
+#: shortcodes/button.php:181
+msgid "Icon Left"
+msgstr ""
+
+#: shortcodes/button.php:183 shortcodes/callout.php:160
+#, php-format
+msgid "Icon to the left of your button text. See all the icons at %s"
+msgstr ""
+
+#: shortcodes/button.php:189
+msgid "Icon Right"
+msgstr ""
+
+#: shortcodes/button.php:191 shortcodes/callout.php:169
+#, php-format
+msgid "Icon to the right of your button text. See all the icons at %s"
+msgstr ""
+
+#: shortcodes/callout.php:56
+msgid "Callout"
+msgstr ""
+
+#: shortcodes/callout.php:69
+msgid "Callout Content"
+msgstr ""
+
+#: shortcodes/callout.php:71
+msgid "Enter your content here."
+msgstr ""
+
+#: shortcodes/callout.php:91 shortcodes/callout.php:94
+#: shortcodes/pricing.php:115 shortcodes/pricing.php:118
+msgid "Button: URL"
+msgstr ""
+
+#: shortcodes/callout.php:100 shortcodes/pricing.php:107
+#: shortcodes/pricing.php:110
+msgid "Button: Text"
+msgstr ""
+
+#: shortcodes/callout.php:108
+msgid "Button: Color"
+msgstr ""
+
+#: shortcodes/callout.php:128
+msgid "Button: Border Radius"
+msgstr ""
+
+#: shortcodes/callout.php:136 shortcodes/pricing.php:123
+msgid "Button: Link Target"
+msgstr ""
+
+#: shortcodes/callout.php:147 shortcodes/pricing.php:133
+msgid "Button: Rel"
+msgstr ""
+
+#: shortcodes/callout.php:158
+msgid "Button: Icon Left"
+msgstr ""
+
+#: shortcodes/callout.php:167
+msgid "Button: Icon Right"
+msgstr ""
+
+#: shortcodes/divider.php:74
+msgid "Divider"
+msgstr ""
+
+#: shortcodes/divider.php:77 shortcodes/spacing.php:21
+msgid "Seperators"
+msgstr ""
+
+#: shortcodes/divider.php:89
+msgid "Solid"
+msgstr ""
+
+#: shortcodes/divider.php:90
+msgid "Dashed"
+msgstr ""
+
+#: shortcodes/divider.php:91
+msgid "Dotted"
+msgstr ""
+
+#: shortcodes/divider.php:92
+msgid "Double"
+msgstr ""
+
+#: shortcodes/divider.php:98 shortcodes/icon.php:51 shortcodes/icon.php:62
+#: shortcodes/icon_box.php:219 shortcodes/list_item.php:73
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/divider.php:101 shortcodes/icon.php:65
+#: shortcodes/icon_box.php:221 shortcodes/list_item.php:76
+#, php-format
+msgid "Select a FontAwesome icon. See all the icons at %s"
+msgstr ""
+
+#: shortcodes/divider.php:107 shortcodes/icon.php:114
+#: shortcodes/icon_box.php:236 shortcodes/list_item.php:96
+msgid "Icon Color"
+msgstr ""
+
+#: shortcodes/divider.php:115 shortcodes/icon.php:86
+msgid "Icon Size"
+msgstr ""
+
+#: shortcodes/divider.php:123
+msgid "Margin Top"
+msgstr ""
+
+#: shortcodes/divider.php:130
+msgid "Margin Bottom"
+msgstr ""
+
+#: shortcodes/icon.php:54 shortcodes/icon_box.php:174
+msgid "Icons"
+msgstr ""
+
+#: shortcodes/icon.php:88
+msgid "Select an icon size."
+msgstr ""
+
+#: shortcodes/icon.php:90
+msgid "Extra Large"
+msgstr ""
+
+#: shortcodes/icon.php:92
+msgid "Normal"
+msgstr ""
+
+#: shortcodes/icon.php:94
+msgid "Tiny"
+msgstr ""
+
+#: shortcodes/icon.php:102
+msgid "Float"
+msgstr ""
+
+#: shortcodes/icon.php:121
+msgid "Add Background Color?"
+msgstr ""
+
+#: shortcodes/icon.php:123
+msgid ""
+"If selected, your icon will have a background color and display as a block."
+msgstr ""
+
+#: shortcodes/icon.php:124
+msgid "Yes, please"
+msgstr ""
+
+#: shortcodes/icon.php:130 shortcodes/testimonials_slider.php:199
+msgid "Background Color"
+msgstr ""
+
+#: shortcodes/icon.php:141
+msgid ""
+"Change the background border radius (99px for a circle, down to 0px for a "
+"square)"
+msgstr ""
+
+#: shortcodes/icon_box.php:14 shortcodes/teaser.php:8
+msgid "Sample heading"
+msgstr ""
+
+#: shortcodes/icon_box.php:171
+msgid "Icon Box"
+msgstr ""
+
+#: shortcodes/icon_box.php:198
+msgid ""
+"Don't forget to change this dummy text in your page editor for this lovely "
+"icon box."
+msgstr ""
+
+#: shortcodes/icon_box.php:203
+msgid "Icon Box Style"
+msgstr ""
+
+#: shortcodes/icon_box.php:205
+msgid "Select your preferred icon box style"
+msgstr ""
+
+#: shortcodes/icon_box.php:207
+msgid "Left Icon"
+msgstr ""
+
+#: shortcodes/icon_box.php:208
+msgid "Top Icon"
+msgstr ""
+
+#: shortcodes/icon_box.php:209
+msgid "Top Icon & Background"
+msgstr ""
+
+#: shortcodes/icon_box.php:210
+msgid "Outlined & Top Icon"
+msgstr ""
+
+#: shortcodes/icon_box.php:211
+msgid "Boxed & Top Icon"
+msgstr ""
+
+#: shortcodes/icon_box.php:212
+msgid "Boxed & Top Icon & Custom Background Color"
+msgstr ""
+
+#: shortcodes/icon_box.php:227
+msgid "Icon Image Alternative"
+msgstr ""
+
+#: shortcodes/icon_box.php:230
+msgid "Select an image instead of using a font icon."
+msgstr ""
+
+#: shortcodes/icon_box.php:244
+msgid "Icon Background"
+msgstr ""
+
+#: shortcodes/icon_box.php:247
+msgid "Note: Not all icon box styles support this setting."
+msgstr ""
+
+#: shortcodes/icon_box.php:254
+msgid "Icon Size In Pixels"
+msgstr ""
+
+#: shortcodes/icon_box.php:266
+msgid "Enter your custom title here."
+msgstr ""
+
+#: shortcodes/icon_box.php:272
+msgid "Title Heading Type"
+msgstr ""
+
+#: shortcodes/icon_box.php:275 shortcodes/teaser.php:138
+msgid "h2"
+msgstr ""
+
+#: shortcodes/icon_box.php:276 shortcodes/teaser.php:139
+msgid "h3"
+msgstr ""
+
+#: shortcodes/icon_box.php:277 shortcodes/teaser.php:140
+msgid "h4"
+msgstr ""
+
+#: shortcodes/icon_box.php:278 shortcodes/teaser.php:141
+msgid "h5"
+msgstr ""
+
+#: shortcodes/icon_box.php:280
+msgid "Select your title heading type for SEO reasons."
+msgstr ""
+
+#: shortcodes/icon_box.php:286
+msgid "Heading Font Color"
+msgstr ""
+
+#: shortcodes/icon_box.php:289
+msgid "Select a custom font color for your title (optional)."
+msgstr ""
+
+#: shortcodes/icon_box.php:295
+msgid "Title Font Size"
+msgstr ""
+
+#: shortcodes/icon_box.php:298
+msgid "Enter a custom font size in pixels for your title (optional)."
+msgstr ""
+
+#: shortcodes/icon_box.php:304
+msgid "Title Font Weight"
+msgstr ""
+
+#: shortcodes/icon_box.php:307
+msgid "Enter a custom font weight for your heading (300,400,600,700)."
+msgstr ""
+
+#: shortcodes/icon_box.php:321 shortcodes/milestone.php:161
+#: shortcodes/teaser.php:154
+msgid "URL Target"
+msgstr ""
+
+#: shortcodes/icon_box.php:332 shortcodes/teaser.php:165
+msgid "URL Rel"
+msgstr ""
+
+#: shortcodes/image_carousel.php:207
+msgid "Image Carousel"
+msgstr ""
+
+#: shortcodes/image_carousel.php:210 shortcodes/image_grid.php:190
+msgid "Images"
+msgstr ""
+
+#: shortcodes/image_carousel.php:227 shortcodes/image_flexslider.php:180
+#: shortcodes/image_grid.php:199
+msgid "Attach Images"
+msgstr ""
+
+#: shortcodes/image_carousel.php:229 shortcodes/image_flexslider.php:182
+#: shortcodes/image_grid.php:201
+msgid "Attach images to your post."
+msgstr ""
+
+#: shortcodes/image_carousel.php:237 shortcodes/image_grid.php:224
+#: shortcodes/portfolio_carousel.php:261 shortcodes/staff_carousel.php:263
+#: shortcodes/woocommerce_carousel.php:241
+msgid "Default"
+msgstr ""
+
+#: shortcodes/image_carousel.php:238 shortcodes/image_grid.php:225
+#: shortcodes/portfolio_carousel.php:262 shortcodes/portfolio_grid.php:319
+#: shortcodes/staff_carousel.php:264 shortcodes/woocommerce_carousel.php:242
+msgid "No Margins"
+msgstr ""
+
+#: shortcodes/image_carousel.php:244 shortcodes/portfolio_carousel.php:311
+#: shortcodes/staff_carousel.php:313 shortcodes/woocommerce_carousel.php:291
+msgid "Slide Width"
+msgstr ""
+
+#: shortcodes/image_carousel.php:247 shortcodes/portfolio_carousel.php:314
+#: shortcodes/staff_carousel.php:316 shortcodes/woocommerce_carousel.php:294
+msgid "The width of each slide in pixels."
+msgstr ""
+
+#: shortcodes/image_carousel.php:252 shortcodes/portfolio_carousel.php:319
+#: shortcodes/staff_carousel.php:321 shortcodes/woocommerce_carousel.php:299
+msgid "Min Slides"
+msgstr ""
+
+#: shortcodes/image_carousel.php:255 shortcodes/portfolio_carousel.php:322
+#: shortcodes/staff_carousel.php:324 shortcodes/woocommerce_carousel.php:302
+msgid "The minimum number of slides to be shown."
+msgstr ""
+
+#: shortcodes/image_carousel.php:260 shortcodes/portfolio_carousel.php:327
+#: shortcodes/staff_carousel.php:329 shortcodes/woocommerce_carousel.php:307
+msgid "Max Slides"
+msgstr ""
+
+#: shortcodes/image_carousel.php:263 shortcodes/portfolio_carousel.php:330
+#: shortcodes/staff_carousel.php:332 shortcodes/woocommerce_carousel.php:310
+msgid "The maximum number of slides to be shown."
+msgstr ""
+
+#: shortcodes/image_carousel.php:268 shortcodes/portfolio_carousel.php:335
+#: shortcodes/staff_carousel.php:337 shortcodes/woocommerce_carousel.php:315
+msgid "Items To Scroll"
+msgstr ""
+
+#: shortcodes/image_carousel.php:271 shortcodes/portfolio_carousel.php:338
+#: shortcodes/staff_carousel.php:340 shortcodes/woocommerce_carousel.php:318
+msgid ""
+"The number of items to scroll at a time. Enter \"page\" to scroll to the "
+"first item of the previous/next \"page\"."
+msgstr ""
+
+#: shortcodes/image_carousel.php:276 shortcodes/portfolio_carousel.php:343
+#: shortcodes/staff_carousel.php:345 shortcodes/woocommerce_carousel.php:323
+msgid "Auto Play"
+msgstr ""
+
+#: shortcodes/image_carousel.php:282 shortcodes/portfolio_carousel.php:349
+#: shortcodes/staff_carousel.php:351 shortcodes/woocommerce_carousel.php:329
+msgid "Determines whether the carousel should scroll automatically or not."
+msgstr ""
+
+#: shortcodes/image_carousel.php:287 shortcodes/portfolio_carousel.php:354
+#: shortcodes/staff_carousel.php:356 shortcodes/woocommerce_carousel.php:334
+msgid "Timeout Duration (in milliseconds)"
+msgstr ""
+
+#: shortcodes/image_carousel.php:291 shortcodes/portfolio_carousel.php:358
+#: shortcodes/staff_carousel.php:359
+msgid "The amount of milliseconds the carousel will pause."
+msgstr ""
+
+#: shortcodes/image_carousel.php:296 shortcodes/portfolio_carousel.php:363
+#: shortcodes/staff_carousel.php:364 shortcodes/woocommerce_carousel.php:341
+msgid "Display Arrows?"
+msgstr ""
+
+#: shortcodes/image_carousel.php:306 shortcodes/image_flexslider.php:195
+#: shortcodes/image_grid.php:231
+msgid "Image Link"
+msgstr ""
+
+#: shortcodes/image_carousel.php:311 shortcodes/image_flexslider.php:200
+#: shortcodes/image_grid.php:236
+msgid "Custom Links"
+msgstr ""
+
+#: shortcodes/image_carousel.php:316 shortcodes/image_flexslider.php:205
+#: shortcodes/image_grid.php:241
+msgid "Custom links"
+msgstr ""
+
+#: shortcodes/image_carousel.php:318 shortcodes/image_flexslider.php:207
+#: shortcodes/image_grid.php:243
+msgid ""
+"Enter links for each slide here. Divide links with linebreaks (Enter). For "
+"images without a link enter a # symbol. And don't forget to include the "
+"http:// at the front."
+msgstr ""
+
+#: shortcodes/image_carousel.php:323 shortcodes/image_flexslider.php:212
+#: shortcodes/image_grid.php:248
+msgid "Custom link target"
+msgstr ""
+
+#: shortcodes/image_carousel.php:325 shortcodes/image_flexslider.php:214
+#: shortcodes/image_grid.php:250
+msgid "Select where to open  custom links."
+msgstr ""
+
+#: shortcodes/image_carousel.php:328 shortcodes/image_flexslider.php:217
+#: shortcodes/image_grid.php:253
+msgid "Same window"
+msgstr ""
+
+#: shortcodes/image_carousel.php:329 shortcodes/image_flexslider.php:218
+#: shortcodes/image_grid.php:254
+msgid "New window"
+msgstr ""
+
+#: shortcodes/image_carousel.php:335 shortcodes/image_flexslider.php:224
+msgid "Crop Images?"
+msgstr ""
+
+#: shortcodes/image_carousel.php:337 shortcodes/image_carousel.php:362
+#: shortcodes/image_carousel.php:370 shortcodes/image_flexslider.php:226
+#: shortcodes/image_grid.php:278 shortcodes/image_grid.php:287
+#: shortcodes/portfolio_carousel.php:386 shortcodes/portfolio_grid.php:404
+#: shortcodes/staff_grid.php:407
+msgid "Yes please."
+msgstr ""
+
+#: shortcodes/image_carousel.php:342 shortcodes/image_grid.php:260
+msgid "Image Crop Width"
+msgstr ""
+
+#: shortcodes/image_carousel.php:345 shortcodes/image_flexslider.php:234
+#: shortcodes/image_grid.php:263 shortcodes/portfolio_carousel.php:403
+#: shortcodes/staff_carousel.php:396 shortcodes/woocommerce_carousel.php:376
+msgid "Enter a width in pixels."
+msgstr ""
+
+#: shortcodes/image_carousel.php:351 shortcodes/image_grid.php:268
+msgid "Image Crop Height"
+msgstr ""
+
+#: shortcodes/image_carousel.php:354 shortcodes/image_flexslider.php:243
+#: shortcodes/image_grid.php:271 shortcodes/portfolio_carousel.php:412
+#: shortcodes/staff_carousel.php:405 shortcodes/woocommerce_carousel.php:385
+msgid ""
+"Enter a height in pixels. Set to \"9999\" to disable vertical cropping and "
+"keep image proportions."
+msgstr ""
+
+#: shortcodes/image_carousel.php:360 shortcodes/image_grid.php:276
+msgid "Rounded Image?"
+msgstr ""
+
+#: shortcodes/image_carousel.php:363 shortcodes/image_grid.php:279
+msgid ""
+"For truely rounded images make sure your images are cropped to the same "
+"width and height."
+msgstr ""
+
+#: shortcodes/image_carousel.php:368 shortcodes/image_grid.php:285
+#: shortcodes/portfolio_carousel.php:418 shortcodes/staff_carousel.php:411
+msgid "Display Title"
+msgstr ""
+
+#: shortcodes/image_carousel.php:371 shortcodes/image_grid.php:288
+msgid ""
+"Note: The title will only display on some grid styles. For example the grid "
+"without margins will not display the title."
+msgstr ""
+
+#: shortcodes/image_carousel.php:383 shortcodes/image_grid.php:300
+#: shortcodes/portfolio_carousel.php:392 shortcodes/portfolio_grid.php:383
+#: shortcodes/staff_carousel.php:385 shortcodes/staff_grid.php:385
+msgid "CSS3 Image Hover"
+msgstr ""
+
+#: shortcodes/image_carousel.php:386 shortcodes/image_grid.php:303
+#: shortcodes/portfolio_carousel.php:395 shortcodes/portfolio_grid.php:386
+#: shortcodes/staff_carousel.php:388 shortcodes/staff_grid.php:388
+msgid ""
+"Select your preferred image hover effect. Please note this will only work if "
+"the image links to a URL or a large version of itself. Please note these "
+"effects may not work in all browsers."
+msgstr ""
+
+#: shortcodes/image_flexslider.php:30
+msgid "Please select your images for your slider"
+msgstr ""
+
+#: shortcodes/image_flexslider.php:168
+msgid "Image FlexSlider"
+msgstr ""
+
+#: shortcodes/image_flexslider.php:171 shortcodes/layerslider.php:7
+#: shortcodes/portfolio_carousel.php:244 shortcodes/staff_carousel.php:246
+#: shortcodes/testimonials_slider.php:170
+msgid "Sliders"
+msgstr ""
+
+#: shortcodes/image_flexslider.php:249
+msgid "Display Caption"
+msgstr ""
+
+#: shortcodes/image_flexslider.php:259
+msgid "Animation"
+msgstr ""
+
+#: shortcodes/image_flexslider.php:262
+msgid "Slide"
+msgstr ""
+
+#: shortcodes/image_flexslider.php:263
+msgid "Fade"
+msgstr ""
+
+#: shortcodes/image_flexslider.php:269
+msgid "Slideshow"
+msgstr ""
+
+#: shortcodes/image_flexslider.php:279
+msgid "Randomize"
+msgstr ""
+
+#: shortcodes/image_flexslider.php:289
+msgid "Control Nav"
+msgstr ""
+
+#: shortcodes/image_flexslider.php:299
+msgid "Direction Nav"
+msgstr ""
+
+#: shortcodes/image_flexslider.php:309
+msgid "Slideshow Speed"
+msgstr ""
+
+#: shortcodes/image_flexslider.php:316
+msgid "Animation Speed"
+msgstr ""
+
+#: shortcodes/image_grid.php:24
+msgid "Please select your images for your grid"
+msgstr ""
+
+#: shortcodes/image_grid.php:187
+msgid "Image Grid"
+msgstr ""
+
+#: shortcodes/layerslider.php:4
+msgid "LayerSlider"
+msgstr ""
+
+#: shortcodes/layerslider.php:16
+msgid "Enter your slider ID"
+msgstr ""
+
+#: shortcodes/list_item.php:62
+msgid "List Item"
+msgstr ""
+
+#: shortcodes/list_item.php:104
+msgid "Icon Right Margin"
+msgstr ""
+
+#: shortcodes/list_item.php:107
+msgid "Enter a custom right side margin for your icon. Example: 10px"
+msgstr ""
+
+#: shortcodes/list_item.php:113
+msgid "Font Color"
+msgstr ""
+
+#: shortcodes/list_item.php:121
+msgid "Custom Font Size"
+msgstr ""
+
+#: shortcodes/list_item.php:124
+msgid ""
+"Enter a custom font size in pixels, such as 18px (optional). This will alter "
+"the icon and text size."
+msgstr ""
+
+#: shortcodes/list_item.php:130 shortcodes/teaser.php:117
+msgid "Text Align"
+msgstr ""
+
+#: shortcodes/list_item.php:137
+msgid "Select your preferred text alignment."
+msgstr ""
+
+#: shortcodes/list_item.php:145
+msgid "This is a pretty list item"
+msgstr ""
+
+#: shortcodes/login_form.php:28
+msgid "Username"
+msgstr ""
+
+#: shortcodes/login_form.php:29
+msgid "Password"
+msgstr ""
+
+#: shortcodes/login_form.php:30
+msgid "Remember Me"
+msgstr ""
+
+#: shortcodes/login_form.php:31
+msgid "Log In"
+msgstr ""
+
+#: shortcodes/login_form.php:56
+msgid "Login Form"
+msgstr ""
+
+#: shortcodes/login_form.php:67
+msgid "Redirect"
+msgstr ""
+
+#: shortcodes/login_form.php:70
+msgid ""
+"Enter a URL to redirect the user after they successfully log in. Leave blank "
+"to redirect to the current page."
+msgstr ""
+
+#: shortcodes/login_form.php:74
+msgid "Logged in Content"
+msgstr ""
+
+#: shortcodes/login_form.php:76
+msgid "You are currently logged in"
+msgstr ""
+
+#: shortcodes/login_form.php:77
+msgid "The content to displayed for logged in users."
+msgstr ""
+
+#: shortcodes/milestone.php:56
+msgid "Please enter a number!"
+msgstr ""
+
+#: shortcodes/milestone.php:75
+msgid "Milestone"
+msgstr ""
+
+#: shortcodes/milestone.php:88
+msgid "Speed"
+msgstr ""
+
+#: shortcodes/milestone.php:91
+msgid "The number of milliseconds it should take to finish counting."
+msgstr ""
+
+#: shortcodes/milestone.php:98
+msgid "Refresh Interval"
+msgstr ""
+
+#: shortcodes/milestone.php:101
+msgid "The number of milliseconds to wait between refreshing the counter."
+msgstr ""
+
+#: shortcodes/milestone.php:108
+msgid "Number"
+msgstr ""
+
+#: shortcodes/milestone.php:115
+msgid "Number: Color"
+msgstr ""
+
+#: shortcodes/milestone.php:122
+msgid "Number: Font Size"
+msgstr ""
+
+#: shortcodes/milestone.php:131
+msgid "Caption"
+msgstr ""
+
+#: shortcodes/milestone.php:138
+msgid "Caption: Color"
+msgstr ""
+
+#: shortcodes/milestone.php:145
+msgid "Caption: Font Size"
+msgstr ""
+
+#: shortcodes/milestone.php:172
+msgid "URl Rel"
+msgstr ""
+
+#: shortcodes/newsletter_form.php:46
+msgid "Newsletter Form"
+msgstr ""
+
+#: shortcodes/newsletter_form.php:57
+msgid "Input Width"
+msgstr ""
+
+#: shortcodes/newsletter_form.php:60
+msgid "Enter a width for your input form. It can be in px or %."
+msgstr ""
+
+#: shortcodes/newsletter_form.php:65
+msgid "Input Height"
+msgstr ""
+
+#: shortcodes/newsletter_form.php:68
+msgid "Enter a width for your input form in pixels."
+msgstr ""
+
+#: shortcodes/newsletter_form.php:73
+msgid "Placeholder Text"
+msgstr ""
+
+#: shortcodes/newsletter_form.php:75
+msgid "Enter your email address"
+msgstr ""
+
+#: shortcodes/newsletter_form.php:76
+msgid "Enter your custom placeholder text"
+msgstr ""
+
+#: shortcodes/newsletter_form.php:81
+msgid "Provider"
+msgstr ""
+
+#: shortcodes/newsletter_form.php:86
+msgid "Select your newsletter provider."
+msgstr ""
+
+#: shortcodes/newsletter_form.php:91
+msgid "Mailchimp Form Action"
+msgstr ""
+
+#: shortcodes/newsletter_form.php:94
+msgid "Enter the MailChimp form action URL."
+msgstr ""
+
+#: shortcodes/portfolio_carousel.php:241
+msgid "Portfolio Posts Carousel"
+msgstr ""
+
+#: shortcodes/portfolio_carousel.php:244 shortcodes/portfolio_grid.php:291
+msgid "Portfolio"
+msgstr ""
+
+#: shortcodes/portfolio_carousel.php:277 shortcodes/recent_news.php:193
+#: shortcodes/staff_carousel.php:279 shortcodes/woocommerce_carousel.php:257
+msgid "Post Count"
+msgstr ""
+
+#: shortcodes/portfolio_carousel.php:280 shortcodes/recent_news.php:196
+#: shortcodes/staff_carousel.php:282 shortcodes/woocommerce_carousel.php:260
+msgid "How many items do you wish to show."
+msgstr ""
+
+#: shortcodes/portfolio_carousel.php:384 shortcodes/portfolio_grid.php:402
+#: shortcodes/staff_grid.php:405
+msgid "Disable Image Overlay?"
+msgstr ""
+
+#: shortcodes/portfolio_carousel.php:387 shortcodes/portfolio_grid.php:405
+#: shortcodes/staff_grid.php:408
+msgid ""
+"Check this box to hide the default overlay when a user hovers over the "
+"featured image."
+msgstr ""
+
+#: shortcodes/portfolio_carousel.php:428 shortcodes/staff_carousel.php:421
+msgid "Display Excerpt"
+msgstr ""
+
+#: shortcodes/portfolio_grid.php:288
+msgid "Portfolio Posts Grid"
+msgstr ""
+
+#: shortcodes/portfolio_grid.php:318
+msgid "Masonry (Filter allowed)"
+msgstr ""
+
+#: shortcodes/portfolio_grid.php:321
+msgid ""
+"Important: If you choose the \"No Margins\" style please make sure that all "
+"your images are the same dimensions because the isotope script will be "
+"removed."
+msgstr ""
+
+#: shortcodes/portfolio_grid.php:477 shortcodes/staff_grid.php:488
+msgid "Read More Text"
+msgstr ""
+
+#: shortcodes/portfolio_grid.php:480 shortcodes/staff_grid.php:491
+msgid "TEnter your custom text for the readmore button."
+msgstr ""
+
+#: shortcodes/portfolio_grid.php:489
+msgid ""
+"This setting is only used when a custom excerpt is NOT defined within the "
+"post\\'s excerpt field."
+msgstr ""
+
+#: shortcodes/pricing.php:51
+msgid "Pricing Table"
+msgstr ""
+
+#: shortcodes/pricing.php:63
+msgid "Features"
+msgstr ""
+
+#: shortcodes/pricing.php:76
+msgid "Featured"
+msgstr ""
+
+#: shortcodes/pricing.php:80
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/pricing.php:86
+msgid "Plan"
+msgstr ""
+
+#: shortcodes/pricing.php:93
+msgid "Cost"
+msgstr ""
+
+#: shortcodes/pricing.php:100
+msgid "Per (optional)"
+msgstr ""
+
+#: shortcodes/recent_news.php:146
+msgid "Recent News"
+msgstr ""
+
+#: shortcodes/recent_news.php:178
+msgid "Header"
+msgstr ""
+
+#: shortcodes/recent_news.php:230
+msgid "How many words do you want to display for your excerpt?"
+msgstr ""
+
+#: shortcodes/recent_news.php:235
+msgid "Read More Link?"
+msgstr ""
+
+#: shortcodes/skillbar.php:43
+msgid "Skill Bar"
+msgstr ""
+
+#: shortcodes/skillbar.php:58
+msgid "Add your skillbar title."
+msgstr ""
+
+#: shortcodes/skillbar.php:76
+msgid "Percentage"
+msgstr ""
+
+#: shortcodes/skillbar.php:79
+msgid "Add a percentage value."
+msgstr ""
+
+#: shortcodes/skillbar.php:84
+msgid "Background"
+msgstr ""
+
+#: shortcodes/skillbar.php:87 shortcodes/testimonials_slider.php:202
+msgid "Choose your custom background color (Hex value)."
+msgstr ""
+
+#: shortcodes/skillbar.php:92
+msgid "Display % Number"
+msgstr ""
+
+#: shortcodes/spacing.php:18 shortcodes/spacing.php:30
+msgid "Spacing"
+msgstr ""
+
+#: shortcodes/spacing.php:33
+msgid "Enter a height in pixels for your spacing."
+msgstr ""
+
+#: shortcodes/staff_carousel.php:243
+msgid "Staff Carousel"
+msgstr ""
+
+#: shortcodes/staff_carousel.php:246 shortcodes/staff_grid.php:294
+msgid "Staff"
+msgstr ""
+
+#: shortcodes/staff_carousel.php:431
+msgid "Display Social Links"
+msgstr ""
+
+#: shortcodes/staff_grid.php:291
+msgid "Staff Grid"
+msgstr ""
+
+#: shortcodes/staff_grid.php:473
+msgid "Enter 9999 to display the full post content"
+msgstr ""
+
+#: shortcodes/staff_grid.php:497
+msgid "Social Links"
+msgstr ""
+
+#: shortcodes/teaser.php:62
+msgid "Teaser Box"
+msgstr ""
+
+#: shortcodes/teaser.php:76
+msgid ""
+"<p>Pass fremont street bust mandalay bay whale dice. Haze loose full house "
+"treasure island shooter vdara royal flush, sixth street betting limits edge "
+"vegas givecamp blackjack!</p>"
+msgstr ""
+
+#: shortcodes/teaser.php:80
+msgid "Image"
+msgstr ""
+
+#: shortcodes/teaser.php:83
+msgid "Select image from media library."
+msgstr ""
+
+#: shortcodes/teaser.php:87
+msgid "Video link"
+msgstr ""
+
+#: shortcodes/teaser.php:89
+#, php-format
+msgid "Link to the video. More about supported formats at %s."
+msgstr ""
+
+#: shortcodes/teaser.php:96
+msgid "Plain"
+msgstr ""
+
+#: shortcodes/teaser.php:97
+msgid "Boxed 1"
+msgstr ""
+
+#: shortcodes/teaser.php:98
+msgid "Boxed 2"
+msgstr ""
+
+#: shortcodes/teaser.php:99
+msgid "Outline"
+msgstr ""
+
+#: shortcodes/teaser.php:135
+msgid "Heading Type"
+msgstr ""
+
+#: shortcodes/testimonials_grid.php:255
+msgid "Testimonials Grid"
+msgstr ""
+
+#: shortcodes/testimonials_grid.php:258 shortcodes/testimonials_slider.php:170
+msgid "Testimonials"
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:167
+msgid "Testimonials Slider"
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:189
+msgid "Skin"
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:192
+msgid "Dark"
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:193
+msgid "Light (white text)"
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:207
+msgid "Background Image"
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:210
+msgid "You can upload a custom background image for your testimonials slider."
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:214
+msgid "Background Image Style"
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:217
+msgid "Stretched"
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:218
+msgid "Fixed"
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:219
+msgid "Parallax"
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:220
+msgid "Repeat"
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:230
+msgid "Enter the SLUG of your testimonial category here to narrow your output."
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:234
+msgid "Count"
+msgstr ""
+
+#: shortcodes/testimonials_slider.php:237
+msgid "How many testimonials do you wish to show?"
+msgstr ""
+
+#: shortcodes/woocommerce_carousel.php:222
+msgid "WooCommerce Carousel"
+msgstr ""
+
+#: shortcodes/woocommerce_carousel.php:351
+msgid "Thumbnail Link"
+msgstr ""
+
+#: shortcodes/woocommerce_carousel.php:362
+msgid "Image Crop"
+msgstr ""
+
+#: shortcodes/woocommerce_carousel.php:391
+msgid "Display Details"
+msgstr ""
